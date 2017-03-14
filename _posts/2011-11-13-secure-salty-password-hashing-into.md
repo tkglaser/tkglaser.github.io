@@ -1,4 +1,10 @@
-﻿This is an example of using one of the .NET hashing algorithms to hash 
+---
+layout: post
+title:  "Adding a Captcha to an MVC application"
+date:   2011-11-13
+permalink: /secure-salty-password-hashing-into/
+---
+This is an example of using one of the .NET hashing algorithms to hash 
 a password into a fixed length string which can then be stored in a fixed 
 length database column. I've started from 
 this [example implementation](http://www.obviex.com/samples/hash.aspx).
