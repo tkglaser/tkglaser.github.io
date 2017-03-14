@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "A Simple Twitter Feed in MVC 4 Using The RESTful Twitter API"
+date:   2012-12-07
+permalink: /a-simple-twitter-feed-in-mvc-4-using/
+---
 If you want to include a Twitter feed into your web site, one option is to use the standard Twitter widget, which looks 
 something like this:
 
