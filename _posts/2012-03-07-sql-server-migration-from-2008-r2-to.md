@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "SQL Server Migration from 2008 R2 to 2008"
+date:   2012-03-07
+permalink: /sql-server-migration-from-2008-r2-to/
+---
 I've seen this today:
 
 **System.Data.SqlClient.SqlError: The database was backed up on a server running version 10.50.1600. That version is incompatible with this server, which is running version 10.00.2573. Either restore the database on a server that supports the backup, or use a backup that is compatible with this server. (Microsoft.SqlServer.Smo)**
