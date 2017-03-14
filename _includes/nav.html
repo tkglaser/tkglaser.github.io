@@ -8,11 +8,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" routerLink="">Thomas Glaser</a>
+            <a class="navbar-brand" href="{{ site.baseurl }}{% link index.md %}">Thomas Glaser</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li routerLinkActive="active"><a routerLink="services">Services</a></li>
+                {% if page.url == "/services/" %}
+                    <li class="active"><a href="{{ site.baseurl }}{% link services.md %}">Services</a></li>
+                {% else %}
+                    <li><a href="{{ site.baseurl }}{% link services.md %}">Services</a></li>
+                {% endif %}
                 <li routerLinkActive="active"><a routerLink="success">Success Stories</a></li>
                 <li routerLinkActive="active"><a routerLink="blog">Blog</a></li>
                 <li routerLinkActive="active"><a routerLink="about">About me</a></li>
