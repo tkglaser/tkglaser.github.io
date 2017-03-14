@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "ASP.NET MVC 4 Beta Side By Side - Not Quite"
+date:   2012-03-16
+permalink: /aspnet-mvc-4-beta-side-by-side-not/
+---
 The features of the upcoming [ASP MVC 4](http://www.asp.net/mvc/mvc4) are nothing short of amazing. 
 I personally can't wait to use this. But I promised myself to wait for the final release.
 
