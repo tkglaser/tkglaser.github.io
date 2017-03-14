@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Syntax highlighting in blogger"
+date:   2012-03-13
+permalink: /syntax-highlighting-in-blogger/
+---
 Upon special request, a quick post about syntax highlighting in [blogger](http://www.blogger.com/).
 
 I use the [google-code-prettify](http://code.google.com/p/google-code-prettify/) package for this. 
