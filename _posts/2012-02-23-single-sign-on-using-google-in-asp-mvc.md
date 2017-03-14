@@ -1,4 +1,10 @@
-﻿With more and more websites around, it gets increasingly hard to keep track of all your individual logins. You would not want to use the same login/password for every site because if only one site gets compromised, your password data might be used to log in to other services.
+---
+layout: post
+title:  "Single Sign On using Google in ASP MVC 3"
+date:   2012-02-23
+permalink: /single-sign-on-using-google-in-asp-mvc/
+---
+With more and more websites around, it gets increasingly hard to keep track of all your individual logins. You would not want to use the same login/password for every site because if only one site gets compromised, your password data might be used to log in to other services.
 
 This is where [OpenID](http://www.openid.co.uk/) comes in. OpenID is an API that is supported by a number of web sites, most importantly Google.
 
