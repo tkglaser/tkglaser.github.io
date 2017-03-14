@@ -18,7 +18,11 @@
                     <li><a href="{{ site.baseurl }}{% link services.md %}">Services</a></li>
                 {% endif %}
                 <li routerLinkActive="active"><a routerLink="success">Success Stories</a></li>
-                <li routerLinkActive="active"><a routerLink="blog">Blog</a></li>
+                {% if page.url == "/blog/" %}
+                    <li class="active"><a href="{{ site.baseurl }}{% link blog/index.html %}">Blog</a></li>
+                {% else %}
+                    <li><a href="{{ site.baseurl }}{% link blog/index.html %}">Blog</a></li>
+                {% endif %}
                 <li routerLinkActive="active"><a routerLink="about">About me</a></li>
                 <li routerLinkActive="active"><a routerLink="contact">Contact</a></li>
             </ul>

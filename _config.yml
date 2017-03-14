@@ -26,11 +26,18 @@ github_username:  tkglaser
 disqus:
   shortname: tkglaser
 
+sass:
+    style: compressed
+
+paginate_path: "/blog/page:num/"
+paginate: 5
+
 # Build settings
 markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
