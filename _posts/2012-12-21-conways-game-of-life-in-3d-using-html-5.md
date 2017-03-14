@@ -1,4 +1,10 @@
-﻿This article looks at implementing Conway's Game Of Life in 3D in your 
+---
+layout: post
+title:  "Conway's Game of Life in 3D using HTML 5 canvas and ThreeJS"
+date:   2012-12-21
+permalink: /conways-game-of-life-in-3d-using-html-5/
+---
+This article looks at implementing Conway's Game Of Life in 3D in your 
 browser. If you're not too interested or already familiar with 
 Conway's Game Of Life, feel free to **skip ahead to the 3D section**. 
 Here is a screen shot of the finished version:
