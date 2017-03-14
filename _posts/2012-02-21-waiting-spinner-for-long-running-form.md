@@ -40,7 +40,7 @@ For our testing purposes, a very minimal form will do:
 
 It should look like this:
 
-![Spinner Form](/assets/blog/images/spinner_form.png)
+![Spinner Form](/assets/images/spinner_form.png)
 
 The post action has a 5 second wait to simulate some sort of long running action:
 ```csharp
@@ -156,7 +156,7 @@ This configures the spinner and adds it to our loading div.
 ### 5. Result
 After pressing the search button, it should look something like this:
 
-![Spinner Running](/assets/blog/images/spinner_running.png)
+![Spinner Running](/assets/images/spinner_running.png)
 
 Also, here is a little demo app that shows the finished result:
 

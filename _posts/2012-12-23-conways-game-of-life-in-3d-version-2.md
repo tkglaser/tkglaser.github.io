@@ -8,7 +8,7 @@ Following up on my [previous post](http://www.tkglaser.net/2012/12/conways-game-
 I've had another play with [three.js](http://mrdoob.github.com/three.js/), 
 trying to push it a little more. I've allowed the organism to grow into a 3D grid, added some random cube colours, lighting and shadows:
 
-![Conway3Dv2](/assets/blog/images/Conway3Dv2.png)
+![Conway3Dv2](/assets/images/Conway3Dv2.png)
 
 You can:
 - [Run the demo](http://playground.tkglaser.net/Conway3D2)

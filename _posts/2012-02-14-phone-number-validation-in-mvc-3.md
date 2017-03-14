@@ -19,7 +19,7 @@ Here are the steps:
 
 In your MVC 3 project in VS2010, just right-click on the projects references folder and choose "Add Library Package Reference...". Select "Online" and search for the libphonenumber-csharp package and install it.
 
-![Nuget](/assets/blog/images/nuget.png)
+![Nuget](/assets/images/nuget.png)
 
 ### 2. Create a Model, a View and a Controller
 
@@ -105,11 +105,11 @@ I've uploaded a little test app to appharbor, so feel free to go there to have a
 
 For an invalid phone number, it should look something like this:
 
-![Phonefail](/assets/blog/images/phonefail.png)
+![Phonefail](/assets/images/phonefail.png)
 
 A valid phone number should create this output:
 
-![Phonesuccess](/assets/blog/images/phonesuccess.png)
+![Phonesuccess](/assets/images/phonesuccess.png)
 
 Notice, how the default country has been added.
 

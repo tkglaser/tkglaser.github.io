@@ -18,7 +18,7 @@ Nothing wrong with that, but I personally prefer
 At the end of this tutorial, you will have an 
 Edit / Create View that looks like this:
 
-![Location Editor](/assets/blog/images/LocationEditor.png)
+![Location Editor](/assets/images/LocationEditor.png)
 
 You can move the pin on the map which will update or create the location of the model, once you press the Create button.
 
@@ -73,7 +73,7 @@ called GeoCoords.cshtml
 in `Views\Shared\EditorTemplates`. 
 Create the EditorTemplates folder if it doesn't exist.
 
-![Location Editor Solution Tree](/assets/blog/images/LocationEditorSolutionTree.png)
+![Location Editor Solution Tree](/assets/images/LocationEditorSolutionTree.png)
 
 Then edit the code in GeoCoords to look like this:
 ```javascript

@@ -16,7 +16,7 @@ First, you need DotNetOpenAuth. The easiest way to to install it via the NuGet p
 Go to [developers.facebook.com](http://developers.facebook.com/) to create your very own Facebook Web App. 
 This is a simple registration process and free for everybody. Ensure, you configure your Facebook App thusly:
 
-![FacebookAuth01](/assets/blog/images/FacebookAuth01.png)
+![FacebookAuth01](/assets/images/FacebookAuth01.png)
 
 This is the address, Facebook will accept authentication requests from. Make sure, the 
 port number matches the port, the Visual Studio debug server runs on. Needless to say that you have to change this, when your application moves to its proper URL.

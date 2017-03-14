@@ -6,7 +6,7 @@ permalink: /star-rating-widget-in-mvc-3-razor/
 ---
 I wanted to have a nice star rating widget on my MVC entry form. Something like this:
 
-![Rating.png](/assets/blog/images/Rating.png)
+![Rating.png](/assets/images/Rating.png)
 
 [Orkan's jQuery UI widget](http://orkans-tmp.22web.net/star_rating/) seems to be a good choice. The problem is, it doesn't quite work on MVC forms, because the scripts insists on creating the hidden input field which holds the rating value as "disabled".
 ```html

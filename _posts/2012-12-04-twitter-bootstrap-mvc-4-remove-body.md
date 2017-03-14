@@ -9,12 +9,12 @@ Just a little pitfall I came across today. If you are using
 ### The Problem
 If viewed in desktop mode, my page looks something like this:
 
-![BootStrap1.png](/assets/blog/images/BootStrap1.png)
+![BootStrap1.png](/assets/images/BootStrap1.png)
 
 Nothing unusual, there is a top nav bar and it is where is should be. Now, if I resize the browser, the page goes 
 into mobile mode and looks like this:
 
-![BootStrap2.png](/assets/blog/images/BootStrap2.png)
+![BootStrap2.png](/assets/images/BootStrap2.png)
 
 Suddenly, there is a 60px high white space above the nav bar, which looks very much broken.
 

@@ -20,9 +20,9 @@ For this demo, I'll modify the navigation in the main layout of the standard MVC
 
 This is what you'll have at the end of this demo:
 
-![Tab01](/assets/blog/images/Tab01.png)
+![Tab01](/assets/images/Tab01.png)
 
-![Tab02](/assets/blog/images/Tab02.png)
+![Tab02](/assets/images/Tab02.png)
 
 It may not be very visually appealing but you can of course tweak this with CSS to your hearts content. Let's go.
 

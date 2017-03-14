@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding a Captcha to an MVC application"
+title:  "Secure Salty Password Hashing into a fixed length String in C#"
 date:   2011-11-13
 permalink: /secure-salty-password-hashing-into/
 ---

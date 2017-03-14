@@ -9,7 +9,7 @@ browser. If you're not too interested or already familiar with
 Conway's Game Of Life, feel free to **skip ahead to the 3D section**. 
 Here is a screen shot of the finished version:
 
-![Conway3 D](/assets/blog/images/Conway3D.png)
+![Conway3 D](/assets/images/Conway3D.png)
 
 Or go to the [demo page](http://playground.tkglaser.net/Conway3D) to see it in action.
 ### Conway's Game Of Life
@@ -49,7 +49,7 @@ This initialises a 2-dimensional array of 100x100 booleans.
 Next, we seed the initial fields on the grid. I'm using the F-Pentomino, 
 but feel free to use any shape you like.
 
-![Game Of Life Fpento](/assets/blog/images/Game_of_life_fpento.svg)
+![Game Of Life Fpento](/assets/images/Game_of_life_fpento.svg)
 ```javascript
 function seedLife() {
   var h = gridmax / 2;

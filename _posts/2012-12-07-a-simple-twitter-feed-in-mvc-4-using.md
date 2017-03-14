@@ -7,7 +7,7 @@ permalink: /a-simple-twitter-feed-in-mvc-4-using/
 If you want to include a Twitter feed into your web site, one option is to use the standard Twitter widget, which looks 
 something like this:
 
-![TwitterWidget.png](/assets/blog/images/TwitterWidget.png)
+![TwitterWidget.png](/assets/images/TwitterWidget.png)
 
 In many cases, this will be good enough. But you might want to embed your Twitter messages more organically into your page so it fits in with the overall look and feel. In that case, you would want to call the Twitter API and display the tweets yourself. This little tutorial shows, how to do exactly that in ASP MVC 4.    Here is a demo app that shows the finished result:
 

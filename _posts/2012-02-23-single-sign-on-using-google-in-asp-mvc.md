@@ -19,7 +19,7 @@ Here is the implementation:
 
 Install this package from the NuGet repository:
 
-![Openauth1](/assets/blog/images/openauth1.png)
+![Openauth1](/assets/images/openauth1.png)
 
 After the package was successfully installed, my application wouldn't start any more.
 
@@ -133,6 +133,6 @@ else // response != null
 ### 4. Other Providers
 This code works well for a number of other providers, like Yahoo or MyOpenId. The only change is the WellKnownProviders line:
 
-![Openauth2](/assets/blog/images/openauth2.png)
+![Openauth2](/assets/images/openauth2.png)
 
 Unfortunately, Facebook and Twitter are not using OpenID. In a future blog post, I'll look at Single Sign On with Facebook and Twitter.
