@@ -1,4 +1,10 @@
-﻿Following up on my [previous post](http://www.tkglaser.net/2012/12/conways-game-of-life-in-3d-using-html-5.html), 
+---
+layout: post
+title:  "Conway's Game Of Life in 3D (version 2)"
+date:   2012-12-23
+permalink: /conways-game-of-life-in-3d-version-2/
+---
+Following up on my [previous post](http://www.tkglaser.net/2012/12/conways-game-of-life-in-3d-using-html-5.html), 
 I've had another play with [three.js](http://mrdoob.github.com/three.js/), 
 trying to push it a little more. I've allowed the organism to grow into a 3D grid, added some random cube colours, lighting and shadows:
 
