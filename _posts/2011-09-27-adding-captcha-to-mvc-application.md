@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Adding a Captcha to an MVC application"
+date:   2011-09-27
+permalink: /adding-captcha-to-mvc-application/
+---
 It took me ages to find and integrate this, so maybe someone will find this useful.
 
 The task is to add a captcha to the user registration screen of an MVC application. But I didn't want to include any 3rd party libraries, rather use an existing web service.
