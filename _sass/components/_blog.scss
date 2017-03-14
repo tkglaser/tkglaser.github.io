@@ -1,0 +1,27 @@
+﻿@import "../bootstrap/mixins/_image.scss";
+
+.blog-preview {
+    font-size: 13px;
+    color: #838181;
+    display: block;
+    margin: 15px 0;
+    position: relative;
+    height: 200px;
+    overflow-y: hidden;
+}
+
+.blog-preview::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(to bottom,rgba(255,255,255,0) 75px,#fff);
+}
+
+.blog-article {
+    img {
+        @include img-responsive;
+    }
+}

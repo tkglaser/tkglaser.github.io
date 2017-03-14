@@ -1,0 +1,42 @@
+﻿header {
+    background-image: url(../images/bg-hero-dimmed.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.9);
+    display:table;
+    width:100%;
+
+    .hero-body {
+        position: relative;
+        z-index: 15;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .hero-text {
+        padding-top: 150px;
+    }
+
+    h1 {
+        font-size: 58px;
+        color: inherit;
+        font-weight: 700;
+        letter-spacing: -2px;
+    }
+
+    h1.small {
+        font-size: 58px;
+        font-weight: 400;
+        letter-spacing: -1px;
+    }
+
+    p {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+    .down-button {
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,37 @@
+﻿@import '../_globals.scss';
+
+footer {
+    background-color: darken($brand-primary, 25);
+    padding-top: 70px;
+    padding-bottom: 50px;
+
+    ul.social-icons {
+        text-align: center;
+
+        li {
+            padding-right: 7px;
+            padding-left: 7px;
+
+            .item {
+                position: relative;
+                width: 48px;
+                height: 48px;
+                background-color: darken($brand-primary, 5);
+                border-radius: 4px;
+                box-shadow: 0 3px 0 #212121;
+
+                a {
+                    display: block;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 48px;
+                    height: 48px;
+                    line-height: 48px;
+                    font-size: 25px;
+                    color: rgba(255, 255, 255, 0.5);
+                }
+            }
+        }
+    }
+}

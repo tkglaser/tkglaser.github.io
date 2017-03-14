@@ -1,46 +1,51 @@
-<footer class="site-footer">
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline social-icons">
+                    <li>
+                        <div class="item">
+                            <a href="https://github.com/tkglaser" target="_blank"><i class="fa fa-github"></i></a>
+                        </div>
+                        <!-- //.item -->
+                    </li>
 
-  <div class="wrapper">
+                    <li>
+                        <div class="item">
+                            <a href="https://www.facebook.com/TKGlaser" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </div>
+                        <!-- //.item -->
+                    </li>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+                    <li>
+                        <div class="item">
+                            <a href="https://twitter.com/tkglaser" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </div>
+                        <!-- //.item -->
+                    </li>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
+                    <li>
+                        <div class="item">
+                            <a href="https://www.linkedin.com/in/tkglaser" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                        <!-- //.item -->
+                    </li>
+                </ul>
+            </div>
+            <!-- //.col-md-12 -->
+        </div>
+        <!-- //.row -->
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyright text-center">
+                    <p class="text-grey">&copy;2017 Thomas Glaser. All rights reserved.</p>
+                </div>
+                <!-- //.copyright -->
+            </div>
+            <!-- //.col-md-12 -->
+        </div>
+        <!-- //.row -->
     </div>
-
-  </div>
-
+    <!-- //.container -->
 </footer>
