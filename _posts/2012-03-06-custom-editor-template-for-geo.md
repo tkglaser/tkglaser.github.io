@@ -1,4 +1,10 @@
-﻿I was recently given the task to make stored geo 
+---
+layout: post
+title:  "Custom Editor Template for Geo Coordinates in MVC 3 using Google Maps"
+date:   2012-03-06
+permalink: /custom-editor-template-for-geo/
+---
+I was recently given the task to make stored geo 
 location data editable. So ideally I would want 
 to have an Edit view where I can just move a pin 
 around on a map. Something similar has been done 
