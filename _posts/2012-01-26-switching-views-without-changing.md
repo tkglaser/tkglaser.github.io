@@ -1,4 +1,10 @@
-﻿Imagine, your boss comes in with this requirement:
+---
+layout: post
+title:  "Switching Views without changing the Controller in ASP MVC 3 Razor"
+date:   2012-01-26
+permalink: /switching-views-without-changing/
+---
+Imagine, your boss comes in with this requirement:
 
 *This web application you just finished, can you do another one that does (mostly) the same but has a completely different look and slightly modified flow?*
 
