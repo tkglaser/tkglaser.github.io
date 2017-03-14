@@ -1,4 +1,10 @@
-﻿After my last post I found that OpenCaptcha.com can be unreliable which leads to the captcha image not being displayed. 
+---
+layout: post
+title:  "Google reCAPTCHA in ASP.NET MVC 3 using the Razor engine"
+date:   2012-02-01
+permalink: /google-recaptcha-in-aspnet-mvc-3-using/
+---
+After my last post I found that OpenCaptcha.com can be unreliable which leads to the captcha image not being displayed. 
 
 So I started looking at Google's reCAPTCHA. Unlike OpenCaptcha, it needs a local library but in exchange for that you get a really slick looking captcha. 
 
