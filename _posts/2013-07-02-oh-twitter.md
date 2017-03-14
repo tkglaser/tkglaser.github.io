@@ -1,4 +1,10 @@
-﻿I just realised, that the code in my 
+---
+layout: post
+title:  "Oh Twitter..."
+date:   2013-07-02
+permalink: /oh-twitter/
+---
+I just realised, that the code in my 
 [previous posts](http://www.tkglaser.net/2012/12/a-simple-twitter-feed-in-mvc-4-using.html) 
 about Twitter plugins is broken.
 This is because Twitter has 
