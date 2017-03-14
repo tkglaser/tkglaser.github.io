@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Single Sign On using Facebook in ASP MVC 3"
+date:   2012-03-22
+permalink: /single-sign-on-using-facebook-in-asp/
+---
 As promised in [one of my last posts](http://www.tkglaser.net/2012/02/single-sign-on-using-google-in-asp-mvc.html), 
 here is a quick how-to for Single Sign On in MVC 3 using [DotNetOpenAuth](http://www.dotnetopenauth.net/). Let's dive right in.
 
