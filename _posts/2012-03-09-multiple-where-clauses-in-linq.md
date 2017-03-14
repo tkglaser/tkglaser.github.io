@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Multiple where clauses in Linq"
+date:   2012-03-09
+permalink: /multiple-where-clauses-in-linq/
+---
 This might be common knowledge, some might even consider it trivial, but I just learned this today: 
 **you can have as many where clauses in a Linq query as you like.**
 
