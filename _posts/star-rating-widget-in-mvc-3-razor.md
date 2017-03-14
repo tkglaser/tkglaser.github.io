@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Star Rating Widget in MVC 3 Razor"
+date:   2012-03-29
+permalink: /star-rating-widget-in-mvc-3-razor/
+---
 I wanted to have a nice star rating widget on my MVC entry form. Something like this:
 
 ![Rating.png](/assets/blog/images/Rating.png)
