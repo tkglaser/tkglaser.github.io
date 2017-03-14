@@ -49,12 +49,6 @@ Next, amend your Register.cshtml with the following lines.
   <input type="submit" value="Register" />
 </p>
 ```
----
-layout: post
-title:  "Adding a Captcha to an MVC application"
-date:   2011-09-27
-permalink: /adding-captcha-to-mvc-application/
----
 Now, the Captcha should be visible along with an entry box for the user to submit the answer. Since we also need the Guid, let's transport it through a hidden field. Add this to Register.cshtml:
 
 ```csharp
