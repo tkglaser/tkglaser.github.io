@@ -1,4 +1,10 @@
-﻿In the application I'm currently working on, I have a search form, where you can specify a number of parameters, press the search button, and then a few hundred thousand rows in the database are accumulated based on the search request. This takes up to 10s if the cache is not initialised.
+---
+layout: post
+title:  "Waiting spinner for long-running form submits in ASP MVC 3 Razor using jQuery"
+date:   2012-02-21
+permalink: /waiting-spinner-for-long-running-form/
+---
+In the application I'm currently working on, I have a search form, where you can specify a number of parameters, press the search button, and then a few hundred thousand rows in the database are accumulated based on the search request. This takes up to 10s if the cache is not initialised.
 
 Studies have shown [[1]](http://www.useit.com/papers/responsetime.html), that this amount of time can be too long. Users might press the search button again because they're not sure, anything is happening.
 
