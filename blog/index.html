@@ -11,7 +11,10 @@ layout: default
                     <p class="lead text-primary">
                         <span class="date">{{ post.date }}</span>
                     </p>
-                    {{ post.content }}
+                    {{ post.excerpt }}
+                    <a class="btn btn-primary" href="{{ post.url }}">
+                        Read more
+                    </a>
                     <hr />
                 </article>
             {% endfor %}
