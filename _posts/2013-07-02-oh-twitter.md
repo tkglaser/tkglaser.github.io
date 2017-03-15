@@ -10,6 +10,7 @@ about Twitter plugins is broken.
 This is because Twitter has 
 [switched off the API v1](https://dev.twitter.com/blog/api-v1-retirement-final-dates). 
 This means, all applications using it (and using my example code) have stopped working.
+<!--more-->
 
 There is a relatively easy solution using the great 
 [TweetSharp](https://github.com/danielcrenna/tweetsharp) package. 
