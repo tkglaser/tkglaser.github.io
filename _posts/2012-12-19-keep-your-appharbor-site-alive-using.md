@@ -5,6 +5,7 @@ date:   2012-12-19
 permalink: /keep-your-appharbor-site-alive-using/
 ---
 [Appharbor.com](http://appharbor.com/) is a great service. It allows you to create an ASP.NET web app using MVC 4 or other versions of ASP and configure it, so that a simple commit to a github(*) repository automatically compiles and deploys your app to appharbor. I might write up an article on how to do this at some point.
+<!--more-->
 
 One thing I noticed is that after 20 minutes of inactivity, your application is being stopped on 
 the server and the next access can take a bit longer as it needs to be restarted. With my demo app 
