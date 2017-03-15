@@ -9,7 +9,7 @@ I've had another play with [three.js](http://mrdoob.github.com/three.js/),
 trying to push it a little more. I've allowed the organism to grow into a 3D grid, added some random cube colours, lighting and shadows:
 
 ![Conway3Dv2](/assets/images/Conway3Dv2.png)
-
+<!--more-->
 You can:
 - [Run the demo](http://playground.tkglaser.net/Conway3D2)
 - [View the complete source](https://raw.github.com/tkglaser/demos/master/net.tkglaser.demos/net.tkglaser.demos/Views/Conway3D2/WebGL.cshtml)
