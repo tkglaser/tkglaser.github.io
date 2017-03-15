@@ -28,6 +28,8 @@ disqus:
 
 sass:
     style: compressed
+    
+excerpt_separator: <!--more-->
 
 paginate_path: "/blog/page:num/"
 paginate: 5
