@@ -9,7 +9,7 @@ layout: default
                 <article>
                     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
                     <p class="lead text-primary">
-                        <span class="date">{{ post.date }}</span>
+                        <span class="date">{{ post.date | date: "%-d %b %Y" }}</span>
                     </p>
                     {{ post.excerpt }}
                     <a class="btn btn-primary" href="{{ post.url }}">
