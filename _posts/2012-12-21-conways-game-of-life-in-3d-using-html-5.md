@@ -10,6 +10,7 @@ Conway's Game Of Life, feel free to **skip ahead to the 3D section**.
 Here is a screen shot of the finished version:
 
 ![Conway3 D](/assets/images/Conway3D.png)
+<!--more-->
 
 Or go to the [demo page](http://playground.tkglaser.net/Conway3D) to see it in action.
 ### Conway's Game Of Life
