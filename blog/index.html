@@ -14,18 +14,27 @@ layout: default
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-8">
             {% for post in paginator.posts %}
-                <article>
-                    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-                    <p class="lead text-primary">
-                        <span class="date">{{ post.date | date: "%-d %b %Y" }}</span>
-                    </p>
-                    {{ post.excerpt }}
-                    <a class="btn btn-primary" href="{{ post.url }}">
-                        Read more
-                    </a>
-                    <hr />
+                <article class="card mb-4 wow materialUp animation-delay-5">
+                    <div class="card-block">
+                        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                        <p class="lead text-primary">
+                            <span class="date">{{ post.date | date: "%-d %b %Y" }}</span>
+                        </p>
+                        {{ post.excerpt }}
+                        
+                        <div class="row">
+                            <div class="col-md-6">
+                                &nbsp;
+                            </div>
+                            <div class="col-md-6">
+                                <a href="{{ post.url }}" class="btn btn-primary btn-raised btn-block animate-icon">Read more
+                                    <i class="ml-1 no-mr zmdi zmdi-long-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>                        
+                    </div>
                 </article>
             {% endfor %}
 
@@ -54,6 +63,9 @@ layout: default
                     {% endif %}
                 </ul>
             </nav>
+        </div>
+        <div class="col-md-4">
+            {% include profile-card.html %}
         </div>
     </div>
 </div>
