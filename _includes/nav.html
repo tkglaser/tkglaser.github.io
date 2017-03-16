@@ -1,31 +1,97 @@
+<header class="ms-header ms-header-dark">
+  <div class="container container-full">
+    <div class="ms-title">
+      <a href="{{ site.baseurl }}{% link index.html %}">
+        <!-- <img src="assets/img/demo/logo-header.png" alt=""> -->
+        <!--<span class="ms-logo animated zoomInDown animation-delay-5">M</span>-->
+        <img src="/assets/images/logo-only-30.png" alt="">
+        <h1 class="animated fadeInRight animation-delay-6">Thomas
+          <span>Glaser</span>
+        </h1>
+      </a>
+    </div>
+    <div class="header-right">
+      <div class="share-menu">
+        <ul class="share-menu-list">
+          <li class="animated fadeInRight animation-delay-3">
+            <a href="javascript:void(0)" class="btn-circle btn-google">
+              <i class="zmdi zmdi-google"></i>
+            </a>
+          </li>
+          <li class="animated fadeInRight animation-delay-2">
+            <a href="javascript:void(0)" class="btn-circle btn-facebook">
+              <i class="zmdi zmdi-facebook"></i>
+            </a>
+          </li>
+          <li class="animated fadeInRight animation-delay-1">
+            <a href="javascript:void(0)" class="btn-circle btn-twitter">
+              <i class="zmdi zmdi-twitter"></i>
+            </a>
+          </li>
+        </ul>
+        <a href="javascript:void(0)" class="btn-circle btn-circle-primary animated zoomInDown animation-delay-7">
+          <i class="zmdi zmdi-share"></i>
+        </a>
+      </div>
+      <a href="javascript:void(0)" class="btn-circle btn-circle-primary no-focus animated zoomInDown animation-delay-8" data-toggle="modal" data-target="#ms-account-modal">
+        <i class="zmdi zmdi-account"></i>
+      </a>
+      <form class="search-form animated zoomInDown animation-delay-9">
+        <input id="search-box" type="text" class="search-input" placeholder="Search..." name="q" />
+        <label for="search-box">
+          <i class="zmdi zmdi-search"></i>
+        </label>
+      </form>
+      <a href="javascript:void(0)" class="btn-ms-menu btn-circle btn-circle-primary sb-toggle-left animated zoomInDown animation-delay-10">
+        <i class="zmdi zmdi-menu"></i>
+      </a>
+    </div>
+  </div>
+</header>
 
-<nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}{% link index.md %}">Thomas Glaser</a>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-            <ul class="nav navbar-nav navbar-right">
-                {% if page.url == "/services/" %}
-                    <li class="active"><a href="{{ site.baseurl }}{% link services.md %}">Services</a></li>
-                {% else %}
-                    <li><a href="{{ site.baseurl }}{% link services.md %}">Services</a></li>
-                {% endif %}
-                <li routerLinkActive="active"><a routerLink="success">Success Stories</a></li>
+<nav class="navbar navbar-static-top yamm ms-navbar ms-navbar-dark">
+        <div class="container container-full">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">
+              <!-- <img src="assets/img/demo/logo-navbar.png" alt=""> -->
+              <!--<span class="ms-logo ms-logo-white ms-logo-sm">M</span>-->
+              <img src="/assets/images/logo-only-30.png" alt="">
+              <span class="ms-title">Thomas
+                <strong>Glaser</strong>
+              </span>
+            </a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li>
+                <a href="{{ site.baseurl }}{% link index.html %}">Home</a>
+              </li>
+              <li>
+                <a data-scroll href="#services">Services</a>
+              </li>
+              <li>
+                <a data-scroll href="#portfolio">Portfolio</a>
+              </li>
+              <li>
+                <a data-scroll href="#pricing">Pricing</a>
+              </li>
+              <li>
+                <a data-scroll href="#about">About us</a>
+              </li>
                 {% if page.url == "/blog/" %}
                     <li class="active"><a href="{{ site.baseurl }}{% link blog/index.html %}">Blog</a></li>
                 {% else %}
                     <li><a href="{{ site.baseurl }}{% link blog/index.html %}">Blog</a></li>
                 {% endif %}
-                <li routerLinkActive="active"><a routerLink="about">About me</a></li>
-                <li routerLinkActive="active"><a routerLink="contact">Contact</a></li>
+              <li>
+                <a data-scroll href="#contact">Contact</a>
+              </li>
             </ul>
-        </div><!--/.nav-collapse -->
-    </div>
+          </div>
+          <!-- navbar-collapse collapse -->
+          <a href="javascript:void(0)" class="sb-toggle-left btn-navbar-menu">
+            <i class="zmdi zmdi-menu"></i>
+          </a>
+        </div>
+        <!-- container -->
 </nav>
