@@ -1,23 +1,29 @@
 ---
 ---
-@import './_globals.scss';
-@import './bootswatch/paper/_variables.scss';
+//@import './_globals.scss';
+//@import './bootswatch/paper/_variables.scss';
 
-$icon-font-path: './fonts/';
-@import "./_bootstrap";
+//$icon-font-path: './fonts/';
+//@import "./_bootstrap";
 
-@import './bootswatch/paper/_bootswatch.scss';
+//@import './bootswatch/paper/_bootswatch.scss';
 
-$fa-font-path: "./fonts";
-@import "./font-awesome/font-awesome.scss";
+//$fa-font-path: "./fonts";
+//@import "./font-awesome/font-awesome.scss";
 
-body {
-  padding-top: $navbar-height;
+//body {
+//  padding-top: $navbar-height;
+//}
+
+//@import './components/_banners.scss';
+//@import './components/_blog.scss';
+//@import './components/_footer.scss';
+//@import './components/_landing_hero.scss';
+//@import './icons-mind.scss';
+//@import './minima/_syntax-highlighting.scss';
+
+.ms-hero-img-thomas-1 {
+  background-image:url(/assets/images/Thomas-9.jpg);
+  background-size:cover;
+  background-position:center 20%
 }
-
-@import './components/_banners.scss';
-@import './components/_blog.scss';
-@import './components/_footer.scss';
-@import './components/_landing_hero.scss';
-@import './icons-mind.scss';
-@import './minima/_syntax-highlighting.scss';
