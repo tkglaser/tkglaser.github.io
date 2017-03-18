@@ -4,72 +4,90 @@ title: Marketing Strategy
 permalink: /marketing-strategy/
 date: 2016-03-18
 ---
-Marketing strategy/braindump for tkglaser consulting.
+Marketing strategy/brain dump for tkglaser consulting.
 
 ## Positioning
+How I present myself and what I offer.
+
 ### Consulting Services
 - Fixed price custom projects
   - (Describe the process)
 - Online Strategy Roadmap
-  - One off fee (maybe post a fixed price on the website?)
-  - One meeting with client (1-2h)
-  - Prepare a document on what would make sense for them going forward
-    - Mobile app, native, cross-platform or do they need one at all?
-    - Static website?
-    - Web app?
+  - A (productised) service for a one off fee
+  - Price posted to the web site (maybe £299?)
+  - Meeting with client (1-2h), Skype or in person if nearby
+  - Prepare a document on what technology or approach would make sense for them going forward
+    - Mobile app, would they benefit from one?
+    - Which tech would be best?
+    - Would a static website suffice?
+    - Would a web app be better?
+    - Hosting, database, backups...
 - *Maybe:* Online advisory retainer
-  - Designed for Senior Executives who are facing a tech transition
+  - Following a roadmap or project
+  - Designed for founders who are non-technical and have to steer through
   - (I'm probably not there yet this is in a few year's time.)
 - *Maybe:* Tech training (for instance Angular)
   - Problem: would be an entirely different audience
   - => Probably too much for now
 
 ### Why hire me?
-- Increased sales
-  - Focus on pre-agreed business outcomes
+- Quick sales
+  - I help you define your Minimum Viable Product
+  - I'll use the latest tech to finish the project quickly so you can start selling
+  - Modern interface creates trust in the brand
+  - I focus on pre-agreed business outcomes and won't hassle you with time sheets
 - Risk mitigation
-  - fixed price
-  - I never go over budget
+  - I offer custom projects for a pre-agreed fixed price
+  - Therefore, I never go over budget
   - Money back guarantee (?)
-- I'm an entrepreneur
-  - I understand that you work differently that a big corporation
-  - I understand Lean Startup
-- Maximum convenience
-  - I have tons of exprience (I do this stuff since 2004)
-  - I don't need handholding
-  - (Picture from the Jerry Seinfeld episode where the plumber 
-    makes him decide everything)
-- Reliability
+  - I have tons of experience (I do this stuff since 2004)
   - I'm reliable
+- I'm an entrepreneur
+  - I have founded and co-founded several businesses. i speak your language
+  - I understand that you work differently that a big corporation
+  - I follow Lean Start-up principles
+- Maximum convenience
+  - [Picture from the Jerry Seinfeld episode where the plumber 
+    makes him decide everything]
+  - I'll update you regularly about the projects progress
+  - I'll take care of the tech decisions for you
+  - Where appropriate I'll supply prototypes for you to play with
 
 ### Success stories
-- Previous projects
-  - Knight Frank Search
-  - MicroGuide
-  - BargainSportsCompetitions
-  - Magnitude Internet
-  - Momentum Hub
-- Previous clients (logo cloud)
-  - Knight Frank
-  - Symantec
-  - Actian/Ingres
-  - Newline UML
-  - HM Informatik
-  - Momentum(?)
+Every success story should contain a business description of the project and screen shots. 
+Links not so much because portfolio rot is likely. If possible, as success story should also
+contain a video. I'll prepare a few questions and then record a Skype call (with permission)
+with the customer. Following projects to start with
+- Knight Frank Search
+- MicroGuide
+- Paul Faehrt Bus
+- BargainSportsCompetitions
+- Momentum Hub
+
+A logo cloud of previous clients
+- Knight Frank
+- Symantec
+- Actian/Ingres
+- Newline UML
+- HM Informatik
+- Momentum(?)
+
 - Testimonials
   - Use existing ones from LinkedIn
-- Videos
-  - Prepare a few questions about the previous project
-  - Skype call the customer
-  - Record the call (with permission)
 
 ### About me
 - Resume/CV
 
 ## Outreach
+How I plan to actively engage and build an audience. Most of this has to link back to the
+website so it will start when the website is done.
+
 ### Content to share
+The topics I should concentrate on and that hopefully are of interest to my target 
+audience and also server to build trust as a tech expert and reliable person.
 - Productivity tips
-- Lean startup
+- Lean start-up
+- Growth hacking
 - Relevant entrepreneurial blogs
 - Getting started as an entrepreneur
 - How to guides
@@ -82,40 +100,50 @@ Marketing strategy/braindump for tkglaser consulting.
   - Scientists
     - Albert Einstein
 
+### Channels
+Main Communication channels:
+- Social media
+- Referrals
+- Local networking groups
+- Build a mailing list
+
 ### Networking
 - Contact all previous clients for 3 referrals each
 - Contact 2 of them per day
-- Find CEOs/CTOs on Linkedin and contact them
+- Find CEOs/CTOs on LinkedIn and in-mail them
 
 ### Social media
 - Twitter
-  - 2 posts a day
-- Linkedin
-  - 2 posts a day
+- LinkedIn
+- Target: 2 posts a day
 
 ### Physical Meetups
-- 1 per week
-- Meetup.com entrepreneur groups
+- Local entrepreneur groups on meetup.com
+- Local 4N networking groups
+- Target: 1 per week
 
 ### Digital products
-- Which technology is right for my business
-- Do I need a mobile app
+Write ebooks, longer articles or series of articles that cannot be found 
+online for free. Possible topics:
+- "Which technology is right for my business"
+- "Do I need a mobile app?"
+- 5 day crash course in lean start-up
 
 ### Mailing list
-- Onboarding
-  - Subscribe box/popup on the home page
-  - Give away free digital product
-  - 5 day crash course of something
+- On-boarding
+  - Subscribe box/pop-up on the home page
+  - Give away free a digital product for every sign up
 - Topics
   - Provide value (see content to share)
-  - Share availability
+  - Share my availability for project work
   - Occasional sales pitch
 - Frequency
   - At least once a week
 
 ### What NOT to do
+Things that are not focused and a waste of my time.
 - No more tech blogging
   - It's irrelevant to the entrepreneurial target audience
-  - It only becomes relevant if I ever move into training people again
+  - It only becomes relevant if I ever move into training people again which is a different business entirely
 - No random stuff that I find interesting
   - All postings on social media must be relevant to the target audience
