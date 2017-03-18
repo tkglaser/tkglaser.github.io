@@ -116,6 +116,6 @@ Marketing strategy/braindump for tkglaser consulting.
 ### What NOT to do
 - No more tech blogging
   - It's irrelevant to the entrepreneurial target audience
-  - It only becomes relevant again when I move into training people which is phase 2
+  - It only becomes relevant if I ever move into training people again
 - No random stuff that I find interesting
   - All postings on social media must be relevant to the target audience
