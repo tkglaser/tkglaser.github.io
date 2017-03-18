@@ -72,8 +72,8 @@ A logo cloud of previous clients
 - HM Informatik
 - Momentum(?)
 
-- Testimonials
-  - Use existing ones from LinkedIn
+### Testimonials
+- Use existing ones from LinkedIn
 
 ### About me
 - Resume/CV
