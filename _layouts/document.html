@@ -8,6 +8,14 @@ layout: default
             <div class="card animated materialUp animation-delay-5">
                 <div class="card-block card-block-big ">
                     <h1 class="no-mt ">{{ page.title }}</h1>
+                    <div class="mb-4">
+                        <img src="/assets/images/Thomas-Profile-160.jpg" alt="..." class="img-circle mr-1" style="max-width:50px"> by
+                        <a href="javascript:void(0)"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Thomas Glaser</span></span></a>
+                        <span class="ml-1 hidden-xs">
+                            <i class="zmdi zmdi-time mr-05 color-info"></i>
+                            <span class="color-medium-dark"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time></span>
+                        </span>
+                    </div>
                     {{ content }}
                 </div>
             </div>
