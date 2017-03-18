@@ -17,9 +17,12 @@ Marketing strategy/braindump for tkglaser consulting.
     - Mobile app, native, cross-platform or do they need one at all?
     - Static website?
     - Web app?
-- Online advisory retainer
+- *Maybe:* Online advisory retainer
   - Designed for Senior Executives who are facing a tech transition
   - (I'm probably not there yet this is in a few year's time.)
+- *Maybe:* Tech training (for instance Angular)
+  - Problem: would be an entirely different audience
+  - => Probably too much for now
 
 ### Why hire me?
 - Increased sales
@@ -32,6 +35,7 @@ Marketing strategy/braindump for tkglaser consulting.
   - I understand that you work differently that a big corporation
   - I understand Lean Startup
 - Maximum convenience
+  - I have tons of exprience (I do this stuff since 2004)
   - I don't need handholding
   - (Picture from the Jerry Seinfeld episode where the plumber 
     makes him decide everything)
