@@ -47,7 +47,12 @@ Marketing strategy/braindump for tkglaser consulting.
 - Resume/CV
 
 ## Outreach
-### Topics to share
+### Topics to talk about
+- Productivity tips
+- Relevant entrepreneurial blogs
+- Getting started as an entrepreneur
+- How to guides
+- Quotes
 
 ### Networking
 - Contact all previous clients for 3 referrals
@@ -65,5 +70,7 @@ Marketing strategy/braindump for tkglaser consulting.
 - Meetup.com entrepreneur groups
 
 ### Digital products
+- Which technology is right for my business
+- Do I need a mobile app
 
 ### Newsletter
