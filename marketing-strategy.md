@@ -7,9 +7,19 @@ date: 2016-03-18
 Marketing strategy/braindump for tkglaser consulting.
 
 ## Positioning
-### Services offered
+### Consulting Services
 - Fixed price custom projects
-- Roadmapping (maybe post a fixed price on the website?)
+  - (Describe the process)
+- Online Strategy Roadmap
+  - One off fee (maybe post a fixed price on the website?)
+  - One meeting with client (1-2h)
+  - Prepare a document on what would make sense for them going forward
+    - Mobile app, native, cross-platform or do they need one at all?
+    - Static website?
+    - Web app?
+- Online advisory retainer
+  - Designed for Senior Executives who are facing a tech transition
+  - (I'm probably not there yet this is in a few year's time.)
 
 ### Why hire me?
 - Increased sales
@@ -18,7 +28,13 @@ Marketing strategy/braindump for tkglaser consulting.
   - fixed price
   - I never go over budget
   - Money back guarantee (?)
-- Maximum convenience (I don't need handholding)
+- I'm an entrepreneur
+  - I understand that you work differently that a big corporation
+  - I understand Lean Startup
+- Maximum convenience
+  - I don't need handholding
+  - (Picture from the Jerry Seinfeld episode where the plumber 
+    makes him decide everything)
 - Reliability
   - I'm reliable
 
@@ -47,15 +63,23 @@ Marketing strategy/braindump for tkglaser consulting.
 - Resume/CV
 
 ## Outreach
-### Topics to talk about
+### Content to share
 - Productivity tips
+- Lean startup
 - Relevant entrepreneurial blogs
 - Getting started as an entrepreneur
 - How to guides
 - Quotes
+  - Inspirational
+  - Business leaders
+    - Steve Jobs
+    - Tim Ferris
+    - Bill Gates
+  - Scientists
+    - Albert Einstein
 
 ### Networking
-- Contact all previous clients for 3 referrals
+- Contact all previous clients for 3 referrals each
 - Contact 2 of them per day
 - Find CEOs/CTOs on Linkedin and contact them
 
@@ -73,4 +97,21 @@ Marketing strategy/braindump for tkglaser consulting.
 - Which technology is right for my business
 - Do I need a mobile app
 
-### Newsletter
+### Mailing list
+- Onboarding
+  - Subscribe box/popup on the home page
+  - Give away free digital product
+  - 5 day crash course of something
+- Topics
+  - Provide value (see content to share)
+  - Share availability
+  - Occasional sales pitch
+- Frequency
+  - At least once a week
+
+### What NOT to do
+- No more tech blogging
+  - It's irrelevant to the entrepreneurial target audience
+  - It only becomes relevant again when I move into training people which is phase 2
+- No random stuff that I find interesting
+  - All postings on social media must be relevant to the target audience
