@@ -71,9 +71,11 @@
                 {% else %}
                     <li><a href="{{ site.baseurl }}{% link content/services.html %}">Services</a></li>
                 {% endif %}
-              <li>
-                <a data-scroll href="#portfolio">Portfolio</a>
-              </li>
+                {% if page.url == "/work/" %}
+                    <li class="active"><a href="{{ site.baseurl }}{% link content/portfolio.html %}">Work</a></li>
+                {% else %}
+                    <li><a href="{{ site.baseurl }}{% link content/portfolio.html %}">Work</a></li>
+                {% endif %}
               <li>
                 <a data-scroll href="#pricing">Pricing</a>
               </li>
