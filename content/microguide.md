@@ -6,9 +6,9 @@ permalink: /work/microguide/
 date: 2017-03-22
 carousel:
 - /assets/images/MicroGuide1Hand.png
-- /assets/images/MicroGuide2.png
-- /assets/images/MicroGuide3.jpg
-- /assets/images/MicroGuide4.png
+- /assets/images/MicroGuide2Hand.png
+- /assets/images/MicroGuide3Hand.png
+- /assets/images/MicroGuide4Hand.png
 ---
 ###  Microguide For Windows Phone
 jfewop jewioj fireo jgviore jgij rei g
