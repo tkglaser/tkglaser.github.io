@@ -74,6 +74,14 @@ A logo cloud of previous clients
 
 ### Testimonials
 - Use existing ones from LinkedIn
+- New testimonials per video, following guiding questions
+  - What was the problem you were experiencing that made you come to me?
+  - Have you previously tried anything else to solve your problem? If so, what?
+  - What did you find as a result of the completed project?
+  - What was the best thing about it?
+  - What are three other benefits that tyou’ve enjoyed as a result of the project?
+  - What would you say to anyone considering making a purchase like this and would you recommend it? If so, why?
+  - Is there anything you’d like to add?
 
 ### About me
 - Resume/CV
