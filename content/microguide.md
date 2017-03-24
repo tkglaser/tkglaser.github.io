@@ -5,7 +5,7 @@ description: Native Windows Phone Application
 permalink: /work/microguide/
 date: 2017-03-22
 carousel:
-- /assets/images/MicroGuide1.png
+- /assets/images/MicroGuide1Hand.png
 - /assets/images/MicroGuide2.png
 - /assets/images/MicroGuide3.jpg
 - /assets/images/MicroGuide4.png
