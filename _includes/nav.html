@@ -84,9 +84,11 @@
                 {% else %}
                     <li><a href="{{ site.baseurl }}{% link blog/index.html %}">Blog</a></li>
                 {% endif %}
-              <li>
-                <a href="{{ site.baseurl }}{% link content/contact.html %}">Contact</a>
-              </li>
+              {% if page.url == "/contact/" %}
+                <li class="active"><a href="{{ site.baseurl }}{% link content/contact.html %}">Contact</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}{% link content/contact.html %}">Contact</a></li>
+              {% endif %}
             </ul>
           </div>
           <!-- navbar-collapse collapse -->
