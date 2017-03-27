@@ -39,7 +39,7 @@ How I present myself and what I offer.
 - Risk mitigation
   - I offer custom projects for a pre-agreed fixed price
   - Therefore, I never go over budget
-  - Money back guarantee (?)
+  - Satisfaction guarantee
   - I have tons of experience (I do this stuff since 2004)
   - I'm reliable
 - I'm an entrepreneur
