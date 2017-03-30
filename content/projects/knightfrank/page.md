@@ -1,5 +1,5 @@
 ---
-layout: portfolio-item
+layout: project-page
 title: Knight Frank Property Search
 description: Web Application in Angular
 permalink: /work/knightfrank/

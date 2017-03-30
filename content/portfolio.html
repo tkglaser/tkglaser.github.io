@@ -19,73 +19,17 @@ custom_js:
             <div class="row masonry-container">
               <!-- item -->
               <div class="col-md-4 col-sm-6 masonry-item wow fadeInUp animation-delay-2">
-                <div class="card">
-                  <figure class="ms-thumbnail ms-thumbnail-horizontal">
-                    <img src="/assets/images/MicroGuide1Hand.png" alt="" class="img-responsive">
-                    <figcaption class="ms-thumbnail-caption text-center">
-                      <div class="ms-thumbnail-caption-content">
-                        <h4 class="ms-thumbnail-caption-title mb-2">Horizon MicroGuide</h4>
-                            <a href="{{ site.baseurl }}{% link content/microguide.md %}" class="btn btn-royal btn-raised">
-                      <i class="zmdi zmdi-globe"></i> Case Study</a>
-                      </div>
-                    </figcaption>
-                  </figure>
-                  <div class="card-block text-center">
-                    <h4 class="color-royal">Horizon MicroGuide</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <a href="{{ site.baseurl }}{% link content/microguide.md %}" class="btn btn-royal btn-raised">
-                      <i class="zmdi zmdi-globe"></i> Case Study</a>
-                  </div>
-                </div>
+                {% include_relative projects/microguide/card.html %}
               </div>
               <!-- item -->
               <!-- item -->
               <div class="col-md-4 col-sm-6 masonry-item wow fadeInUp animation-delay-2">
-                <div class="card">
-                  <figure class="ms-thumbnail ms-thumbnail-horizontal">
-                    <img src="/assets/images/KF1.png" alt="" class="img-responsive">
-                    <figcaption class="ms-thumbnail-caption text-center">
-                      <div class="ms-thumbnail-caption-content">
-                        <h4 class="ms-thumbnail-caption-title mb-2">Knight Frank Property Search</h4>
-                        <a href="{{ site.baseurl }}{% link content/knightfrank.md %}" class="btn btn-royal btn-raised">
-                          <i class="zmdi zmdi-globe"></i> Case Study
-                        </a>
-                      </div>
-                    </figcaption>
-                  </figure>
-                  <div class="card-block text-center">
-                    <h4 class="color-royal">Knight Frank Property Search</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <a href="{{ site.baseurl }}{% link content/knightfrank.md %}" class="btn btn-royal btn-raised">
-                      <i class="zmdi zmdi-globe"></i> Case Study</a>
-                  </div>
-                </div>
+                {% include_relative projects/knightfrank/card.html %}
               </div>
               <!-- item -->
               <!-- item -->
               <div class="col-md-4 col-sm-6 masonry-item wow fadeInUp animation-delay-2">
-                <div class="card">
-                  <figure class="ms-thumbnail ms-thumbnail-horizontal">
-                    <img src="/assets/images/BSC1.png" alt="" class="img-responsive">
-                    <figcaption class="ms-thumbnail-caption text-center">
-                      <div class="ms-thumbnail-caption-content">
-                        <h4 class="ms-thumbnail-caption-title mb-2">Bargain Sports Competitions</h4>
-                        <a href="{{ site.baseurl }}{% link content/bsc.md %}" class="btn btn-royal btn-raised">
-                          <i class="zmdi zmdi-globe"></i> Case Study
-                        </a>
-                      </div>
-                    </figcaption>
-                  </figure>
-                  <div class="card-block text-center">
-                    <h4 class="color-royal">Bargain Sports Competitions</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam sed labore autem nesciunt ea veniam recusandae necessitatibus reprehenderit.</p>
-                    <a href="{{ site.baseurl }}{% link content/bsc.md %}" class="btn btn-royal btn-raised">
-                      <i class="zmdi zmdi-globe"></i> Case Study</a>
-                  </div>
-                </div>
+                {% include_relative projects/bsc/card.html %}
               </div>
               <!-- item -->
             </div>

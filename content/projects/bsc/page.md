@@ -1,5 +1,5 @@
 ---
-layout: portfolio-item
+layout: project-page
 title: Bargain Sports Competitions
 description: Web App using AngularJS
 permalink: /work/bsc/

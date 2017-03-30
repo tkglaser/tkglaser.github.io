@@ -1,5 +1,5 @@
 ---
-layout: portfolio-item
+layout: project-page
 title: Horizon Microguide For Windows
 description: Native Windows Phone Application
 permalink: /work/microguide/
