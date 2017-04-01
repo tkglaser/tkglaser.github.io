@@ -10,4 +10,8 @@ carousel:
 - /assets/images/BSC3.png
 ---
 ###  Bargain Sports Competitions
-jfewop jewioj fireo jgviore jgij rei g
+This web application was a Minimum Viable Product (MVP) for a small startup.
+It was written using
+- ASP.NET MVC
+- AngularJS
+- MySQL

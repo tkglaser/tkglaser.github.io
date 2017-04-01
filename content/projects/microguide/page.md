@@ -10,5 +10,10 @@ carousel:
 - /assets/images/MicroGuide3Hand.png
 - /assets/images/MicroGuide4Hand.png
 ---
-###  Microguide For Windows Phone
-jfewop jewioj fireo jgviore jgij rei g
+###  MicroGuide For Windows Phone
+The MicroGuide Application is a mobile phone app that allows health 
+organisations like the NHS to access current guide documents.
+I've developed the application using
+- Windows Phone 8.1 SDK
+- XAML
+- C#
