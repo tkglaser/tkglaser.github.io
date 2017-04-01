@@ -45,3 +45,12 @@
   margin-left: auto;
   opacity: 0.5;
 }
+
+$small-colour: #f5f5f5;
+
+.ms-header-dark small {
+  color: $small-colour
+}
+.ms-footbar small {
+  color: $small-colour
+}
