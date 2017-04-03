@@ -3,6 +3,7 @@ layout: post
 title:  "Twitter Bootstrap MVC 4 remove body padding in mobile view"
 date:   2012-12-04
 permalink: /twitter-bootstrap-mvc-4-remove-body/
+redirect_from: /2012/12/twitter-bootstrap-mvc-4-remove-body.html
 ---
 Just a little pitfall I came across today. If you are using 
 [Twitter Bootstrap](http://twitter.github.com/bootstrap/) in ASP MVC 4, you might have the same problem.
