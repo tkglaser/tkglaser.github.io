@@ -3,6 +3,7 @@ layout: post
 title:  "Custom Editor Template for Geo Coordinates in MVC 3 using Google Maps"
 date:   2012-03-06
 permalink: /custom-editor-template-for-geo/
+redirect_from: /2012/03/custom-editor-template-for-geo.html
 ---
 I was recently given the task to make stored geo 
 location data editable. So ideally I would want 
