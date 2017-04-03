@@ -3,6 +3,7 @@ layout: post
 title:  "Phone number validation in MVC 3"
 date:   2012-02-14
 permalink: /phone-number-validation-in-mvc-3/
+redirect_from: /2012/02/phone-number-validation-in-mvc-3.html
 ---
 If your web application relies on properly entered phone numbers, this might be interesting. 
 This post shows step by step how to use Google's [libphonenumber](http://code.google.com/p/libphonenumber/) to validate 
