@@ -3,6 +3,7 @@ layout: post
 title:  "Adding a Captcha to an MVC application"
 date:   2011-09-27
 permalink: /adding-captcha-to-mvc-application/
+redirect_from: /2011/09/adding-captcha-to-mvc-application.html
 ---
 It took me ages to find and integrate this, so maybe someone will find this useful.
 
