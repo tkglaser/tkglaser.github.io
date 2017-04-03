@@ -3,6 +3,7 @@ layout: post
 title:  "Keep your Appharbor site alive using your old Linux box"
 date:   2012-12-19
 permalink: /keep-your-appharbor-site-alive-using/
+redirect_from: /2012/12/keep-your-appharbor-site-alive-using.html
 ---
 [Appharbor.com](http://appharbor.com/) is a great service. It allows you to create an ASP.NET web app using MVC 4 or other versions of ASP and configure it, so that a simple commit to a github(*) repository automatically compiles and deploys your app to appharbor. I might write up an article on how to do this at some point.
 <!--more-->
