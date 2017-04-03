@@ -3,6 +3,7 @@ layout: post
 title:  "Examples on appharbor.com"
 date:   2012-02-19
 permalink: /examples-on-appharborcom/
+redirect_from: /2012/02/examples-on-appharborcom.html
 ---
 Just a quick update. I'm currently working on getting some example applications up on [appharbor.com](http://appharbor.com/).
 
