@@ -3,6 +3,7 @@ layout: post
 title:  "Secure Salty Password Hashing into a fixed length String in C#"
 date:   2011-11-13
 permalink: /secure-salty-password-hashing-into/
+redirect_from: /2011/11/secure-salty-password-hashing-into.html
 ---
 This is an example of using one of the .NET hashing algorithms to hash 
 a password into a fixed length string which can then be stored in a fixed 
