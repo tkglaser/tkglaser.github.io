@@ -3,6 +3,7 @@ layout: post
 title:  "Simple Tabbed Navigation in MVC 3 using HTML Only"
 date:   2012-02-27
 permalink: /simple-tabbed-navigation-in-mvc-3-using/
+redirect_from: /2012/02/simple-tabbed-navigation-in-mvc-3-using.html
 ---
 Grouping multiple sites together with a sort of tab folder navigation is a common requirement. Unlike the navigation in the MVC default project template, you want to highlight the current tab to show users where they are.
 
