@@ -3,6 +3,7 @@ layout: post
 title:  "Single Sign On using Google in ASP MVC 3"
 date:   2012-02-23
 permalink: /single-sign-on-using-google-in-asp-mvc/
+redirect_from: /2012/02/single-sign-on-using-google-in-asp-mvc.html
 ---
 With more and more websites around, it gets increasingly hard to keep track of all your individual logins. You would not want to use the same login/password for every site because if only one site gets compromised, your password data might be used to log in to other services.
 
