@@ -3,6 +3,7 @@ layout: post
 title:  "SQL Server Migration from 2008 R2 to 2008"
 date:   2012-03-07
 permalink: /sql-server-migration-from-2008-r2-to/
+redirect_from: /2012/03/sql-server-migration-from-2008-r2-to.html
 ---
 I've seen this today:
 
