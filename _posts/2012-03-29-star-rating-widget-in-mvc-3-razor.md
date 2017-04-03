@@ -3,6 +3,7 @@ layout: post
 title:  "Star Rating Widget in MVC 3 Razor"
 date:   2012-03-29
 permalink: /star-rating-widget-in-mvc-3-razor/
+redirect_from: /2012/03/star-rating-widget-in-mvc-3-razor.html
 ---
 I wanted to have a nice star rating widget on my MVC entry form. Something like this:
 
