@@ -3,7 +3,7 @@ layout: post
 title:  "Google reCAPTCHA in ASP.NET MVC 3 using the Razor engine"
 date:   2012-02-01
 permalink: /google-recaptcha-in-aspnet-mvc-3-using/
-redirect_from: /2012/02/google-recaptcha-in-aspnet-mvc-3-using.html
+redirect_from: /2011/10/google-recaptcha-in-aspnet-mvc-3-using.html
 ---
 After my last post I found that OpenCaptcha.com can be unreliable which leads to the captcha image not being displayed. 
 
