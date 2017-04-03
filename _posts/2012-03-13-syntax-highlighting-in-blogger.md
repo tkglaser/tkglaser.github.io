@@ -3,6 +3,7 @@ layout: post
 title:  "Syntax highlighting in blogger"
 date:   2012-03-13
 permalink: /syntax-highlighting-in-blogger/
+redirect_from: /2012/03/syntax-highlighting-in-blogger.html
 ---
 Upon special request, a quick post about syntax highlighting in [blogger](http://www.blogger.com/).
 
