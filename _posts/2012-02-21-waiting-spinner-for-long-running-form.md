@@ -3,6 +3,7 @@ layout: post
 title:  "Waiting spinner for long-running form submits in ASP MVC 3 Razor using jQuery"
 date:   2012-02-21
 permalink: /waiting-spinner-for-long-running-form/
+redirect_from: /2012/02/waiting-spinner-for-long-running-form.html
 ---
 In the application I'm currently working on, I have a search form, where you can specify a number of parameters, press the search button, and then a few hundred thousand rows in the database are accumulated based on the search request. This takes up to 10s if the cache is not initialised.
 
