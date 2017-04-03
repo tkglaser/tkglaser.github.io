@@ -3,6 +3,7 @@ layout: post
 title:  "Custom Twitter Feed on your MVC 4 Layout Page"
 date:   2012-12-16
 permalink: /custom-twitter-feed-on-your-mvc-4/
+redirect_from: /2012/12/custom-twitter-feed-on-your-mvc-4.html
 ---
 As a follow-up to [this post](http://www.tkglaser.net/2012/12/a-simple-twitter-feed-in-mvc-4-using.html), 
 I needed to get the home-made Twitter feed onto the layout page of our MVC 4 app. Like this:
