@@ -3,6 +3,7 @@ layout: post
 title:  "Switching Views without changing the Controller in ASP MVC 3 Razor"
 date:   2012-01-26
 permalink: /switching-views-without-changing/
+redirect_from: /2012/01/switching-views-without-changing.html
 ---
 Imagine, your boss comes in with this requirement:
 
