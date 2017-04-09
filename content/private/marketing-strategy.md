@@ -1,7 +1,7 @@
 ---
 layout: document
 title: Marketing Strategy
-permalink: /marketing-strategy/
+permalink: /private/marketing-strategy/
 date: 2016-03-18
 ---
 Marketing strategy/brain dump for tkglaser consulting.
