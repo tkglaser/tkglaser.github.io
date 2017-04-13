@@ -121,8 +121,8 @@ Main Communication channels:
 - Find CEOs/CTOs on LinkedIn and in-mail them
 
 ### Social media
-- Twitter
-- LinkedIn
+- Twitter: Mostly tech stuff because it's used by techies and marketers
+- LinkedIn: Only business stuff, no techies on here really
 - Target: 2 posts a day
 
 ### Physical Meetups
