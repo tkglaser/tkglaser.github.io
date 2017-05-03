@@ -4,6 +4,7 @@ title:  "Oh Twitter..."
 date:   2013-07-02
 permalink: /oh-twitter/
 redirect_from: /2013/07/oh-twitter.html
+image: /assets/images/twitter-company-statistics.jpg
 ---
 I just realised, that the code in my 
 [previous posts](http://www.tkglaser.net/2012/12/a-simple-twitter-feed-in-mvc-4-using.html) 

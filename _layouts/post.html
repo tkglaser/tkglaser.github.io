@@ -15,6 +15,9 @@ layout: default
                             <span class="color-medium-dark"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time></span>
                         </span>
                     </div>
+                    {% if page.image %}
+                        <img src="{{page.image}}" alt=" " class="img-responsive mb-4">
+                    {% endif %}
                     {{ content }}
                     {% if site.disqus.shortname %}
                         {% include disqus_comments.html %}
