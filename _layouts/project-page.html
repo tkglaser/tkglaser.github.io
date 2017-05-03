@@ -49,14 +49,19 @@ layout: default
     {% endif %}
 
           </div>
+        {% if page.keyfacts %}
+
           <div class="col-md-4">
             <div class="card">
               <div class="ms-hero-bg-primary ms-hero-img-mountain">
-                <h2 class="text-center no-m pt-4 pb-4 color-white index-1">Project Info</h2>
+                <h2 class="text-center no-m pt-4 pb-4 color-white index-1">Key facts</h2>
               </div>
               <div class="card-block">
-                  {{ content }}
-
+                <ul>
+                {% for fact in page.keyfacts %}
+                  <li>{{fact}}</li>
+                {% endfor %}
+                </ul>
                 <div class="text-center">
                   <a href="{{ site.baseUrl }}{% link content/contact.html %}" class="btn btn-raised btn-lg btn-warning btn-lg animated flipInX animation-delay-10">
                     <i class="zmdi zmdi-mail-send"></i> Contact me
@@ -65,5 +70,25 @@ layout: default
               </div>
             </div>
           </div>
+        {% endif %}
+        </div>
+      <div class="row">
+      <div class="col-md-12">
+        <div class="card card-primary">
+          <div class="card-header">
+            <h3 class="card-title">Project description</h2>
+          </div>
+          <div class="card-block">
+            {{ content }}
+
+            <div class="text-center">
+              <a href="{{ site.baseUrl }}{% link content/contact.html %}" class="btn btn-raised btn-lg btn-warning btn-lg animated flipInX animation-delay-10">
+                <i class="zmdi zmdi-mail-send"></i> Contact me
+              </a>
+            </div>
+          </div>
         </div>
       </div>
+    </div>
+  </div>
+
