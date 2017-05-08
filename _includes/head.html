@@ -14,8 +14,11 @@
   
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta name="twitter:image" content="{{ site.url }}/assets/images/Thomas-26.jpg">
-  
+  {% if page.image %}
+    <meta name="twitter:image" content="{{ site.url }}{{page.image}}">
+  {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/assets/images/Thomas-26.jpg">
+  {% endif %}
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="/assets/css/preload.min.css" />
