@@ -16,7 +16,25 @@ permalink: /about/
     </div>
 </div>
 
-<div class="container mt-6 wow fadeInUp" >
+<div class="container mt-2 wow fadeInUp" >
+  <div class="card card-block card-block-big">
+    <h2 class="fw-400 text-center">Hi, I'm Thomas</h2>
+{% capture bio %}
+I'm a Software Engineer, Architect and Trainer.
+
+I have thirteen years commercial experience in the IT services 
+and software delivery industry. Prior to this I have 
+successfully graduated as a M. Sc. in Computer Science at the Technical University of Ilmenau, Germany. 
+
+I have not only an excellent track record from a technical point of view but have also received 
+consistently positive feedback about my pro-active approach, outstanding communication skills and team work.
+
+In addition to interesting technical tasks, a large part of my job satisfaction is coming from solving real-life 
+customer needs and I enjoy ongoing interaction with stakeholders as only this ensures the best outcome possible.
+{% endcapture %}
+{{ bio | markdownify }}
+
+  </div>
   <div class="card card-block card-block-big">
     <h3 class="text-center fw-500 mb-6">Work Experiences</h3>
     <ul class="ms-timeline-left">
