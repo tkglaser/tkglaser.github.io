@@ -3,7 +3,7 @@ layout: post
 title:  "Validate Before You Execute"
 date:   2017-05-24
 permalink: /validate-before-you-execute/
-image: /assets/images/validate.jpg
+image: /assets/images/Validate.png
 ---
 The number of ideas that have been pitched to me over the years is staggering. I have been asked to do:
 - A panic button for Facebook
