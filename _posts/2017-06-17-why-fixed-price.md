@@ -5,11 +5,12 @@ date:   2017-06-17
 permalink: /why-fixed-price/
 image: /assets/images/Fixed-Price.jpg
 ---
-I the service industry it is common to agree the scope of a project. The contractor
-then gives an estimate on how long the work is likely to take, starts working
-and then sends weekly or monthly invoices.
+In the service industry it is common to approach a project like this: 
+1. Agree the scope of a project 
+2. The contractor gives an estimate on how long the work is likely to take
+3. Contractor starts working and sends weekly or monthly invoices.
 
-While this practise is very common, it is also very wrong. 
+While this practice is very common, it is also very wrong. 
 I would even go as far as saying: Any contractor who does that is an **amateur**.
 <!--more-->
 
@@ -30,7 +31,7 @@ The contractor is disadvantaged by the arrangement as well:
   he/she is actually **punished** because only the time spent is charged. There is 
   no incentive at all to look at better tools or learn new things to get the work done
   faster.
-- When a project overruns the estimate, the contractor has to have an awkward converastion 
+- When a project overruns the estimate, the contractor has to have an awkward conversation 
   with the client. Trust is eroded and basically everyone loses.
 
 ### That is why professional contractors take the risk of project overruns upon themselves.
@@ -39,7 +40,7 @@ the contractor is incentivised to learn from the mistake and to avoid it going f
 The **main advantages of fixed price projects** are:
 - The customer carries less risk. The project will cost the pre-agreed amount of money and no more.
 - The contractor is incentivised to be efficient and do a great job in the planned amount of time.
-- There is no awkwarness and re-negotiation and hence no erosion of trust.
+- There is no awkwardness and re-negotiation and hence no erosion of trust.
 
 ### Conclusion
 If you are looking to get an IT project done, prefer a contractor or agency that provides a
