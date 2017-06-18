@@ -46,68 +46,36 @@
               </div>-->
             </div>
             <div class="col-md-5 col-sm-7 ms-footer-col ms-footer-alt-color">
-              <!--<div class="ms-footbar-block">
+              <div class="ms-footbar-block">
                 <h3 class="ms-footbar-title text-center mb-2">Last Articles</h3>
                 <div class="ms-footer-media">
-                  <div class="media">
-                    <div class="media-left media-middle">
-                      <a href="javascript:void(0)">
-                        <img class="media-object media-object-circle" src="assets/img/demo/p75.jpg" alt="..."> </a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="media-heading">
-                        <a href="javascript:void(0)">Lorem ipsum dolor sit expedita cumque amet consectetur adipisicing repellat</a>
-                      </h4>
-                      <div class="media-footer">
-                        <span>
-                          <i class="zmdi zmdi-time color-info-light"></i> August 18, 2016</span>
-                        <span>
-                          <i class="zmdi zmdi-folder-outline color-warning-light"></i>
-                          <a href="javascript:void(0)">Design</a>
-                        </span>
+                  {% for post in site.posts limit:3 %}  
+                    <div class="media">
+                      <div class="media-left media-middle">
+                        <a href="{{ post.url }}">
+                          {% if post.image %}
+                            <img class="footer-media-image media-object media-object-circle" src="{{ post.image }}" alt="" >
+                          {% else %}
+                            <img class="media-object media-object-circle" src="/assets/img/demo/p75.jpg" alt="...">
+                          {% endif %}
+                        </a>
+                      </div>
+                      <div class="media-body">
+                        <h4 class="media-heading">
+                          <a href="{{ post.url }}">
+                            {{ post.title }}
+                          </a>
+                        </h4>
+                        <div class="media-footer">
+                          <span>
+                            <i class="zmdi zmdi-time color-info-light"></i> {{ post.date | date: "%-d %b %Y" }}
+                          </span>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-left media-middle">
-                      <a href="javascript:void(0)">
-                        <img class="media-object media-object-circle" src="assets/img/demo/p75.jpg" alt="..."> </a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="media-heading">
-                        <a href="javascript:void(0)">Labore ut esse Duis consectetur expedita cumque ullamco ad dolor veniam velit</a>
-                      </h4>
-                      <div class="media-footer">
-                        <span>
-                          <i class="zmdi zmdi-time color-info-light"></i> August 18, 2016</span>
-                        <span>
-                          <i class="zmdi zmdi-folder-outline color-warning-light"></i>
-                          <a href="javascript:void(0)">News</a>
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-left media-middle">
-                      <a href="javascript:void(0)">
-                        <img class="media-object media-object-circle" src="assets/img/demo/p75.jpg" alt="..."> </a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="media-heading">
-                        <a href="javascript:void(0)">voluptates deserunt ducimus expedita cumque quaerat molestiae labore</a>
-                      </h4>
-                      <div class="media-footer">
-                        <span>
-                          <i class="zmdi zmdi-time color-info-light"></i> August 18, 2016</span>
-                        <span>
-                          <i class="zmdi zmdi-folder-outline color-warning-light"></i>
-                          <a href="javascript:void(0)">Productivity</a>
-                        </span>
-                      </div>
-                    </div>
-                  </div>
+                  {% endfor %}  
                 </div>
-              </div>-->
+              </div>
             </div>
             <div class="col-md-3 col-sm-5 ms-footer-col ms-footer-text-right">
               <div class="ms-footbar-block">
