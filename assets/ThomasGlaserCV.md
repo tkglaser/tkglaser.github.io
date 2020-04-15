@@ -1,8 +1,9 @@
-# Thomas Glaser
+% Thomas Glaser
 58 Forest Road, Windsor, SL4 4HU
+
 07480 503 505 – [thomas@tkglaser.net](mailto:thomas@tkglaser.net)
 
-## Profile
+# Profile
 
 I have 14 years commercial experience in the IT services and software delivery industry. During this time I mainly fulfilled the roles of a Senior Software Engineer and Technical Team Lead. Prior to this I have successfully graduated as a Master of Computer Science at the Technical University of Ilmenau, Germany. 
 
@@ -12,46 +13,40 @@ In addition to interesting technical tasks, a large part of my job satisfaction 
 
 **Key skills: Web Development on the Microsoft stack, MS SQL + ASP + Angular.**
 
-## Skills
+# Skills
 
 <!-- ![This is the caption](img/road.jpg) -->
 
-**Programming Languages** | |
+**Web Frameworks and Technologies** | |
 | --- | ---:|
-| C# | 12 Years |
-| TypeScript/JavaScript | 5 Years |
-| C++ | 5 Years |
-
-**Web Technoligies** | |
-| --- | ---:|
+TypeScript/JavaScript | 5 Years |
 HTML+CSS | 10 Years
+Angular | 5 Years
+WebForms | 4 Years
+ASP MVC 2 – 5, Razor | 3.5 Years
+WebAPI 1 – 2  | 1 Year
 
-**Data Storage and Management** ||
+**Backend Frameworks and Technologies** ||
 | --- | ---:|
+C# | 12 Years |
+C++ | 5 Years |
 MS SQL Server 2008 – 2016 | 4 Years
+.NET Core | 2 Years
+.NET | 9 Years
+LINQ | 3 Years
+Entity Framework 3 – 6 | 3 Years
 
 **Leadership** | |
 | --- | ---:|
 Technical Team Lead | 4 Years
 IT Director | 1.5 Years
 
-**Frameworks** | |
-| --- | ---:|
-.NET Core | 2 Years
-.NET | 9 Years
-WebForms | 4 Years
-ASP MVC 2 – 5, Razor | 3.5 Years
-WebAPI 1 – 2  | 1 Year
-Angular (2+) | 3 Years
-LINQ | 3 Years
-Entity Framework 3 – 6 | 3 Years
-
-### Architectural Patterns
+## Architectural Patterns
 Distributed Systems, N-Tier, OOP, OOD, MVC, MVVM, Unit of work, Singleton, Responsive Web, Code First, Database First
 
-## Experience
+# Experience
 
-### Invenias - Senior Web Developer (contract)
+## Invenias - Senior Web Developer (contract)
 *October 2018 – Current*
 
 Re-implementation of Web-Based CMS in Angular 7.
@@ -70,7 +65,7 @@ This client was struggling with performance issues, maintainability and stabilit
 * Set up code linting to highlight anti-patterns and use of deprecated features.
 * Educate the team on all the new concepts so that they can to move forward.
 
-### Fiserv - Senior Web Developer (contract)
+## Fiserv - Senior Web Developer (contract)
 *October 2017 – October 2018*
 
 Re-implementation of Risk Assessment Software in Angular 5.
@@ -81,7 +76,7 @@ The old version of the FCRM risk assessment software was implemented in Silverli
 
 I did some work on the server-side back-end, but I mainly focused on the client-side Angular application and ended up writing about 80% of the app on my own. There was a heavy focus on observability (data changes in one part of the UI affecting other parts), so we heavily used the @ngrx/store, @ngrx/entities and @ngrx/effects packages to manage and observe client-side state changes.
  
-### Knight Frank - Senior Web Developer
+## Knight Frank - Senior Web Developer
 *July 2015 – September 2017*
 
 Extending and updating Knight Frank's web presence. 
@@ -94,31 +89,31 @@ I have rewritten Knight Frank’s property search application from scratch. I ha
   [http://www.knightfrank.co.uk/stamp-duty-calculator](http://www.knightfrank.co.uk/stamp-duty-calculator)
 * A new office and people search plugin (AngularJS, WebAPI)
 
-### Couchbase Inc. - Software Trainer (contract)
+## Couchbase Inc. - Software Trainer (contract)
 *July 2015 – Oct 2016*
 
 I have trained some of Couchbase's customers in the use of the Couchbase C SDK (libcouchbase).
 
-### Magnitude Internet GmbH – IT Director, Software Engineer
+## Magnitude Internet GmbH – IT Director, Software Engineer
 *Oct 2014 – Oct 2018*
 Technical director of a German start-up company and responsible for architecture and development.
 
 Tools/Languages: **C#**, **ASP.NET MVC 5**, **ASP Web API 2**, **AngularJS**, **MS Azure**
 
-### HM Informatik AG – Senior Software Engineer (contract)
+## HM Informatik AG – Senior Software Engineer (contract)
 *Mar 2014 – June 2015*
 
 I have written multiple plugins for a Flight Control Simulation software (FCS). 
 Tools/Languages: **C++**, **Boost**, **CMake**, **QT 4.8**, **Visual Studio 2010**, **Bazaar**.
 
-### Momentum Coach Hire Ltd – IT Director, Senior Software Engineer, Consultant
+## Momentum Coach Hire Ltd – IT Director, Senior Software Engineer, Consultant
 *Sep 2011 – Mar 2014*
 
 I have been working for Momentum Coach Hire, a small ambitious company in the Coach Hire and Event Organisation business. There, I have created a variety of new web sites and improved existing ones. I’ve moved some of the existing ones to Azure, all the new ones were hosted on Azure from the start. I have also been promoted to IT Director and was responsible for the migration of the entire company (50 employees) onto Microsoft Office 365.
 
 Tools/Languages: **C#, ASP.NET MVC 3-4, Google Maps API, MS Azure**
 
-### Symantec UK Ltd – Senior Software Engineer
+## Symantec UK Ltd – Senior Software Engineer
 *Feb 2010 – Sep 2011*
 
 I have worked as a Senior Software Engineer for Symantec UK Ltd in the Research and Development team for Symantec Enterprise Vault, an email archiving solution written in C# and C++. In my time there I have performed the following tasks:
@@ -137,14 +132,14 @@ I have worked as a Senior Software Engineer for Symantec UK Ltd in the Research 
   architectural improvements and my excellent communication and team work
 
 
-### Ingres Europe Ltd – Senior Software Engineer
+## Ingres Europe Ltd – Senior Software Engineer
 *Mar 2004 – Feb 2010*
 
 With Ingres I worked as a permanently employed Consultant. I was involved in various customer projects as a developer and architect.
 
-## Education
+# Education
 
-### Technical University of Ilmenau
+## Technical University of Ilmenau
 * Diplom Informatiker (Dipl. Inf.) – Equivalent to 2:1 Master in Computer Science
 * Primary Subject: Computer Science “Good” (2.2)
 * Secondary Subject: Mathematics “Good” (1.7)
@@ -152,7 +147,7 @@ With Ingres I worked as a permanently employed Consultant. I was involved in var
   Virtual Reality” “Good” (2.3)
 * Various extracurricular Activities like Manager of a Student Club.
 
-### Training received
+## Training received
 | Time | Content |
 | --- | --- |
 | Jan 2011 | Effective C++ |
@@ -167,11 +162,11 @@ With Ingres I worked as a permanently employed Consultant. I was involved in var
 | Jul 2004 | Train the Trainer |
 | Apr 2004 | QM System ISO 9001 |
 
-### Interests
+## Interests
 
 * Open Source Community, Linux
 * Racquet Sports
 
-### References
+## References
 
 Excellent references available on request.
