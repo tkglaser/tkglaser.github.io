@@ -5,7 +5,7 @@
 
 # Profile
 
-I have 14 years commercial experience in the IT services and software delivery industry. During this time I mainly fulfilled the roles of a Senior Software Engineer and Technical Team Lead. Prior to this I have successfully graduated as a Master of Computer Science at the Technical University of Ilmenau, Germany. 
+I have 14 years commercial experience in the IT services and software delivery industry. During this time I mainly fulfilled the roles of a Senior Software Engineer and Technical Team Lead. Prior to this I have successfully graduated as a Master of Computer Science at the Technical University of Ilmenau, Germany.
 
 I have an excellent track record from a technical point of view and received consistently positive feedback about my pro-active approach, outstanding communication skills and team work.
 
