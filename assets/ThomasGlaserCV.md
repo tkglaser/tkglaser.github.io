@@ -20,40 +20,34 @@ real world problems.
 
 **Web Frameworks and Technologies** | |
 | --- | ---:|
-TypeScript/JavaScript | 5 Years |
+TypeScript (JavaScript) | 5 Years |
 Angular | 5 Years
 HTML+CSS | 10 Years
 ASP MVC, Razor | 3.5 Years
-WebForms | 4 Years
-WebAPI  | 2 Years
 
 **Backend Frameworks and Technologies** ||
 | --- | ---:|
-C# | 12 Years |
-C++ | 5 Years |
-MS SQL Server | 4 Years
-.NET / .NET Core | 10 Years
-LINQ / Entity Framework | 3 Years
+C# / .Net / .NET Core | 12 Years |
+MS SQL Server with Entity Framework | 3 Years
+NodeJS | 1 Year
 
 **Leadership** | |
 | --- | ---:|
 Technical Team Lead | 4 Years
-IT Director | 1.5 Years
+Architect | 3 Years
 
 ## Continuing education
+
+![Microsoft Certified: Azure Solutions Architect Expert](img/azure-solutions-architect-expert-600x600.png)
 
 I always strive to extend my knowledge. To that end I read technical books and
 I also have my own Pluralsight subscription. Recent topics include:
 
 * Architectural Patterns for High availability, Cloud Architecture in MS Azure,
-Kubernetes, Helm, Identity Management, Kafka, Hadoop, ...
+Kubernetes, Helm, Identity Management, Kafka and Hadoop to name just a few.
 
-to name just a few.
-
-I am also a **Microsoft Certified Azure Solutions Architect Expert**
+I am a **Microsoft Certified Azure Solutions Architect Expert**
 (Certification Number: H394-0016)
-
-![Microsoft Certified: Azure Solutions Architect Expert](img/azure-solutions-architect-expert-600x600.png)
 
 # Experience
 
@@ -64,13 +58,13 @@ I am also a **Microsoft Certified Azure Solutions Architect Expert**
 Co-architected and co-developed multiple Angular+NodeJS+.NET Core applications.
 
 Frameworks/Languages: **Angular** (v9), **NodeJS**, **.NET Core**,
-**RxJS** (Reactive extensions for JS),
+**SignalR**, **RxJS** (Reactive extensions for JS),
 **NgRx** (State manager),
 **NestJS** (API Framework for Node), **TypeScript**, **C#**
 
-Implemented 3D telemetry visualisation using ThreeJS and custom charting
-using D3. Involved in architecting identity integration using Auth0 and
-Azure Active Directory.
+Implemented 3D telemetry visualisation using ThreeJS and D3. The telemetry data 
+was received from a .NET Core backend using SignalR. I've also worked on an
+Authentication layer in NodeJS against Auth0 using OpenID Connect.
 
 ## Magnitude Internet GmbH – Chief Architect, Co-Founder
 
