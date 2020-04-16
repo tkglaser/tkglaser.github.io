@@ -5,20 +5,16 @@
 
 # Profile
 
-I have 16 years commercial experience in the IT services and software delivery
-industry. During this time I mainly fulfilled the roles of a Senior Software
-Engineer and Technical Team Lead. Prior to this I have successfully graduated
-as a Master of Computer Science at the Technical University of Ilmenau, Germany.
+I have 16 years commercial experience as a Software Engineer,
+Team Lead and Architect. During that time I have received
+consistently excellent
+feedback about my technical expertise, my pro-active approach and my
+clear and honest communication. I am especially passionate about clean code
+and applying tried and proven architectural patterns to solve
+real world problems.
 
-I have an excellent track record from a technical point of view and received
-consistently positive feedback about my pro-active approach, outstanding
-communication skills and team work.
-
-In addition to interesting technical tasks, a large part of my job
-satisfaction is coming from solving real-life customer needs and I enjoy
-ongoing interaction with stakeholders as only this ensures the best outcome possible.
-
-**Key skills: Web Development on the Microsoft stack, MS SQL + ASP + Angular.**
+**Key skills: Cloud Architecture, Full Stack Development using**
+**Microsoft technologies, Angular and NodeJS.**
 
 # Skills
 
