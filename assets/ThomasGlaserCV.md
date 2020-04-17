@@ -43,11 +43,11 @@ Architect | 3 Years
 I always strive to extend my knowledge. To that end I read technical books and
 I also have my own Pluralsight subscription. Recent topics include:
 
-* Architectural Patterns for High availability, Cloud Architecture in MS Azure,
-Kubernetes, Helm, Identity Management, Kafka and Hadoop to name just a few.
-
-I am a **Microsoft Certified Azure Solutions Architect Expert**
-(Certification Number: H394-0016)
+* **Architectural Patterns** for High availability, Cloud Architecture in **MS Azure**,
+  **Kubernetes**, **Helm**, Identity Management, **Kafka** and Hadoop to name
+  just a few.
+* I am a **Microsoft Certified Azure Solutions Architect Expert**
+  (Certification Number: H394-0016)
 
 # Experience
 
@@ -60,20 +60,33 @@ Co-architected and co-developed multiple Angular+NodeJS+.NET Core applications.
 Frameworks/Languages: **Angular** (v9), **NodeJS**, **.NET Core**,
 **SignalR**, **RxJS** (Reactive extensions for JS),
 **NgRx** (State manager),
-**NestJS** (API Framework for Node), **TypeScript**, **C#**
+**NestJS** (API Framework for Node), **Angular Schematics**, **TypeScript**, **C#**
 
-Implemented 3D telemetry visualisation using ThreeJS and D3. The telemetry data 
-was received from a .NET Core backend using SignalR. I've also worked on an
-Authentication layer in NodeJS against Auth0 using OpenID Connect.
+* I created a Template Web Application to Kick-Start customer projects. This
+  consisted of a NodeJS backend handling security and administration and a
+  frontend in Angular. This included CLI tooling to tailor the application to
+  the project's needs. The CLI was written in NodeJS using Angular Schematics.
+* Implemented 3D telemetry visualisation using ThreeJS and D3. The telemetry data
+  was received from a .NET Core backend using SignalR. I've also worked on an
+  Authentication layer in NodeJS against Auth0 using OpenID Connect.
+* Co-architected a new authentication layer for the Telemetry Analytics
+  Platform (.NET Core)
+* Worked on the CICD build pipelines (Azure DevOps)
 
 ## Magnitude Internet GmbH – Chief Architect, Co-Founder
 
 *Oct 2014 – Jul 2019*
 
-Designed and developed an E-Commerce Solution.
+Designed and co-developed an E-Commerce Solution.
 
 Frameworks/Languages: **Ms Azure Cloud**, **C#**, **ASP.NET MVC 5**,
 **ASP Web API 2**, **AngularJS**
+
+* I came in as the Chief Architect for this German Start-up company.
+* Designed the cloud based architecture (MS Azure) for their
+  multi-tiered product and mentored the team on the concepts used.
+* Worked together with the CTO on implementing the CICD
+  pipeline in Atlassian Bamboo. (It was a pain, I'd use Azure DevOps going forward)
 
 ## Invenias - Senior Software Engineer (contract)
 
@@ -89,15 +102,15 @@ This client was struggling with performance issues, maintainability and
 stability. I’ve taken the following steps to move them forward:
 
 * Start to re-implement the application using several new concepts in
-  a side-by-side way, so the improvements can be seen immediately. It is not
-  just a like-for-like, many new features were implemented along the way.
+  a side-by-side way, so the improvements can be seen immediately.
+  Many new features were implemented along the way.
 * Introduce NgRx for client-side state management and caching.
 * Migrate from Angular 4 to Angular 7 to take advantage of
   out-of-the-box performance improvements.
 * Move them to the new Angular CLI build system. This took dev builds
   from 8 minutes down to 2.
 * Set up code linting to highlight anti-patterns and use of deprecated features.
-* Educate the team on all the new concepts so that they can to move forward.
+* Mentor the team on all the new concepts so that they can to move forward.
 
 ## Fiserv - Senior Software Engineer (contract)
 
