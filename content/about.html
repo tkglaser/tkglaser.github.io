@@ -20,18 +20,13 @@ permalink: /about/
   <div class="card card-block card-block-big">
     <h3 class="fw-500 text-center">Hi, I'm Thomas</h3>
 {% capture bio %}
-I'm a web and mobile engineer who helps entrepreneurs with building Minimum Viable Products. 
-I follow lean startup and have founded businesses myself so I know what it takes.
-
-I have thirteen years commercial experience in the IT services 
-and software delivery industry. I've developed worked for big and small companies, I've spoken before audiences
-and held trainings. Many years ago I gained a Master in Computer Science at the Technical University of Ilmenau, Germany. 
-
-I make it my mission to be up to date with the latest tech, I tend to be pro-active and I communicate well.
-
-The prospect of solving interesting technical challenges is what gets me out of bed in the morning. 
-I'm an entrepreneur, I enjoy solving real life problems and working out how software can help the 
-business move forward.
+I have 16 years commercial experience as a Software Engineer,
+Team Lead and Architect. During that time I have received
+consistently excellent
+feedback about my technical expertise, my pro-active approach and my
+clear and honest communication. I am especially passionate about clean code
+and applying tried and proven architectural patterns to solve
+real world problems.
 
 {% endcapture %}
 {{ bio | markdownify }}
@@ -41,10 +36,89 @@ business move forward.
     <h3 class="text-center fw-500 mb-6">Work Experiences</h3>
     <ul class="ms-timeline-left">
       <li class="ms-timeline-left-item wow fadeInUp">
+        <h4>McLaren Applied</h4>
+        <div class="ms-timeline-left-left">
+          <h4 class="color-primary">Snr SW Engineer (contract)</h4>
+          <time class="ms-timeline-left-time">2019 - 2020</time>
+        </div>
+        <span class="ms-timeline-left-city">London/Woking</span>
+{% capture mclaren_text %}
+Co-architected and co-developed multiple Angular+NodeJS+.NET Core applications.
+
+Frameworks/Languages: **Angular** (v9), **NodeJS**, **.NET Core**,
+**SignalR**, **RxJS** (Reactive extensions for JS),
+**NgRx** (State manager),
+**NestJS** (API Framework for Node), **Angular Schematics**, **TypeScript**, **C#**
+
+* I created a Template Web Application to Kick-Start customer projects. This
+  consisted of a NodeJS backend handling security and administration and a
+  frontend in Angular. This included CLI tooling to tailor the application to
+  the project's needs. The CLI was written in NodeJS using Angular Schematics.
+* Implemented 3D telemetry visualisation using ThreeJS and D3. The telemetry data
+  was received from a .NET Core backend using SignalR. I've also worked on an
+  Authentication layer in NodeJS against Auth0 using OpenID Connect.
+* Co-architected a new authentication layer for the Telemetry Analytics
+  Platform (.NET Core)
+* Worked on the CICD build pipelines (Azure DevOps)
+{% endcapture %}
+{{ mclaren_text | markdownify }}
+      </li>
+      <li class="ms-timeline-left-item wow fadeInUp">
+        <h4>Magnitude Internet GmbH</h4>
+        <div class="ms-timeline-left-left">
+          <h4 class="color-primary">Chief Architect, Co-Founder</h4>
+          <time class="ms-timeline-left-time">2014 - 2019</time>
+        </div>
+        <span class="ms-timeline-left-city">Remote</span>
+{% capture magnitude_text %}
+Designed and co-developed an E-Commerce Solution.
+
+Frameworks/Languages: **Ms Azure Cloud**, **C#**, **ASP.NET MVC 5**,
+**ASP Web API 2**, **AngularJS**
+
+* I came in as the Chief Architect for this German Start-up company.
+* Designed the cloud based architecture (MS Azure) for their
+  multi-tiered product and mentored the team on the concepts used.
+* Worked together with the CTO on implementing the CICD
+  pipeline in Atlassian Bamboo. (It was a pain, I'd use Azure DevOps going forward)
+{% endcapture %}
+{{ magnitude_text | markdownify }}
+      </li>
+      <li class="ms-timeline-left-item wow fadeInUp">
+        <h4>Invenias</h4>
+        <div class="ms-timeline-left-left">
+          <h4 class="color-primary">Snr SW Engineer (contract)</h4>
+          <time class="ms-timeline-left-time">2018 - 2019</time>
+        </div>
+        <span class="ms-timeline-left-city">Reading</span>
+{% capture invenias_text %}
+Re-implementation of Web-Based CMS in Angular 7.
+
+Frameworks/Languages: **Angular** (v7), **RxJS** (Reactive extensions for JS),
+**NgRx** (State manager), **C#**, **Visual Studio 2017**,
+**Visual Studio Code**.
+
+This client was struggling with performance issues, maintainability and
+stability. I’ve taken the following steps to move them forward:
+
+* Start to re-implement the application using several new concepts in
+  a side-by-side way, so the improvements can be seen immediately.
+  Many new features were implemented along the way.
+* Introduce NgRx for client-side state management and caching.
+* Migrate from Angular 4 to Angular 7 to take advantage of
+  out-of-the-box performance improvements.
+* Move them to the new Angular CLI build system. This took dev builds
+  from 8 minutes down to 2.
+* Set up code linting to highlight anti-patterns and use of deprecated features.
+* Mentor the team on all the new concepts so that they can to move forward.
+{% endcapture %}
+{{ invenias_text | markdownify }}
+      </li>
+      <li class="ms-timeline-left-item wow fadeInUp">
         <h4>Fiserv</h4>
         <div class="ms-timeline-left-left">
           <h4 class="color-primary">Snr SW Engineer (contract)</h4>
-          <time class="ms-timeline-left-time">2017 - present</time>
+          <time class="ms-timeline-left-time">2017 - 2018</time>
         </div>
         <span class="ms-timeline-left-city">Slough</span>
         <p>        
@@ -193,6 +267,19 @@ Technical Achievements:
         <div class="card mt-4 wow fadeInUp">
           <div class="card-block card-block-big">
             <h3 class="text-center fw-500 mb-2">Certifications</h3>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="pr-1 pl-1">
+                  <h4 class="color-primary fw-500 md-1">Microsoft Certified Azure Solutions Architect Expert</h4>
+                  <img style="max-width: 200px;" src="/assets/img/azure-solutions-architect-expert-600x600.png"> 
+                  <div><a href="https://www.youracclaim.com/badges/b073dbea-6abf-46b0-b0bc-78c25334c459/linked_in_profile">Microsoft Certified: Azure Solutions Architect Expert</a></div>
+                  <span class="small">2020</span>
+                  <p class="small mt-1">
+                    Earning the Azure Solutions Architect Expert certification demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. Candidates have advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance - managing how decisions in each area affects an overall solution.
+                  </p>
+                </div>
+              </div>
+            </div>
             <div class="row">
               <div class="col-md-12">
                 <div class="pr-1 pl-1">
