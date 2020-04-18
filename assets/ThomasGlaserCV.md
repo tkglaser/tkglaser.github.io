@@ -40,8 +40,9 @@ Architect | 3 Years
 
 ![Microsoft Certified: Azure Solutions Architect Expert](img/azure-solutions-architect-expert-600x600.png)
 
-I always strive to extend my knowledge. To that end I read technical books and
-I also have my own Pluralsight subscription. Recent topics include:
+I always strive to extend my knowledge and keep up to date with current trends.
+I do this using various sources like podcasts, books and PluralSight courses.
+Recent topics include:
 
 * **Architectural Patterns** for High availability, Cloud Architecture in **MS Azure**,
   **Kubernetes**, **Helm**, Identity Management, **Kafka** and Hadoop to name
