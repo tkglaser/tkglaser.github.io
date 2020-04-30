@@ -18,17 +18,18 @@ real world problems.
 
 # Skills
 
-**Web Frameworks and Technologies** | |
+**Client-side** | |
 | --- | ---:|
 TypeScript (JavaScript) | 5 Years |
 Angular | 5 Years
 HTML+CSS | 10 Years
 ASP MVC, Razor | 3.5 Years
 
-**Backend Frameworks and Technologies** ||
+**Server-side** ||
 | --- | ---:|
 C# / .Net / .NET Core | 12 Years |
 MS SQL Server with Entity Framework | 3 Years
+Docker / Kubernetes | 1 Year
 NodeJS | 1 Year
 
 **Leadership** | |
