@@ -1,3 +1,3 @@
 #/bin/bash
 
-pandoc --reference-docx=word-template.docx -o ThomasGlaserCV.docx -f markdown -t docx ThomasGlaserCV.md
+pandoc --reference-doc=word-template.docx -o ThomasGlaserCV.docx -f markdown -t docx ThomasGlaserCV.md
