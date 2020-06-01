@@ -34,7 +34,18 @@ NodeJS | 1 Year
 
 # Leadership
 
-I've been a Technical Team Lead on and off throughout my career. Whilst being at HM Informatik GmbH and Ingres Europe Ltd (2004-2010) I have lead various customer facing projects hands on and also been a team member of other projects. From 2014 to 2019 I was the Team Lead and Head Architect for a web-based start-up. I was tasked with defining the overall architecture and engineering best practices as well as building up the team of engineers. I was doing all this while being a full stack consultant and doing things like international trainings for Couchbase. Overall I would say that I have **4 years** experience as a **Team Leader**. I am now at a stage of my career where I want to focus on hands-on leadership first and foremost.
+I have been a Technical Team Lead on and off throughout my career.
+Whilst being at HM Informatik GmbH and Ingres Europe Ltd (2004-2010) I have led
+various customer facing projects hands on and been a team member of
+other projects. From 2014 to 2019 I was the Team Lead and Head Architect for
+a web-based start-up. I was tasked with defining the overall architecture
+and engineering best practices as well as building up the team of engineers.
+I was doing all this while being a full stack consultant and doing things
+like international trainings for Couchbase.
+
+Overall I would say that I have **4 years** experience as a **Team Leader**.
+I am now at a stage of my career where
+I want to focus on hands-on leadership first and foremost.
 
 ## Continuing education
 
