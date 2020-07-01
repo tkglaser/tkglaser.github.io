@@ -12,7 +12,7 @@ phone numbers in your MVC 3 application.
 Google's [libphonenumber](http://code.google.com/p/libphonenumber/) is an open 
 source Java library which is used on [Android 4.0 (ICS)](http://www.android.com/about/ice-cream-sandwich/) mobile phones. There is a C# port of this library which can be made to work with MVC.
 
-This is what you will have at the end of this tutorial: http://playground.tkglaser.net/PhoneValidation
+This is what you will have at the end of this tutorial: http://tkglaser.apphb.com/PhoneValidation
 
 Here are the steps:
 
@@ -102,7 +102,7 @@ Any parsing error will throw an exception with a relevant error message which is
 
 This gives us a nice little toy, we can test the validation with.
 
-I've uploaded a little test app to appharbor, so feel free to go there to have a play: http://playground.tkglaser.net/PhoneValidation
+I've uploaded a little test app to appharbor, so feel free to go there to have a play: http://tkglaser.apphb.com/PhoneValidation
 
 For an invalid phone number, it should look something like this:
 
@@ -120,5 +120,5 @@ That's it. You can now ensure, that the user is entering a (syntactically) corre
 
 Related links:
 
-- [Have a play with the little test app I've done](http://playground.tkglaser.net/PhoneValidation)
+- [Have a play with the little test app I've done](http://tkglaser.apphb.com/PhoneValidation)
 - [Adding libphonenumber validation using a ValidationAttribute (appharbor blog)](http://blog.appharbor.com/2012/02/03/net-phone-number-validation-with-google-libphonenumber)

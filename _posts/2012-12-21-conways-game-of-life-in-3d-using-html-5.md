@@ -13,7 +13,7 @@ Here is a screen shot of the finished version:
 ![Conway3 D](/assets/images/Conway3D.png)
 <!--more-->
 
-Or go to the [demo page](http://playground.tkglaser.net/Conway3D) to see it in action.
+Or go to the [demo page](http://tkglaser.apphb.com/Conway3D) to see it in action.
 ### Conway's Game Of Life
 Conway's Game Of Life is one of the most fascinating mathematical games I know. 
 [It demonstrates, how a simple starting point and simple rules can create a very complex scenario](http://en.wikipedia.org/wiki/Conway's_Game_of_Life). 
@@ -24,7 +24,7 @@ using JavaScript and visualise it in 3D using a HTML 5 Canvas and [ThreeJS](http
 
 ThreeJS is an open source JavaScript library that can be used to render 3D scenes in most HTML 5 compatible browsers. At the end of this tutorial, we will have something like this (select WebGL or Canvas version):
 
-http://playground.tkglaser.net/Conway3D
+http://tkglaser.apphb.com/Conway3D
 
 ### Conway's Game Of Life (CGOL) in JavaScript
 As I said above, the implementation of CGOL is manageable even for a JS newbie like me.
@@ -96,7 +96,7 @@ function stepConway() {
 ### Visualisation using Three.js
 This is the slightly more difficult step. I wanted to have a 3D view onto a slowly rotating board, where the CGOL "creature" evolves. One way of doing this is using Three.js. This allows us to define a scene in a very general way and leave the rendering to the library. At the end of this, it will look something like this (select the appropriate version for your browser):
 
-http://playground.tkglaser.net/Conway3D
+http://tkglaser.apphb.com/Conway3D
 
 ### Initialising three.js and preparing the scene
 Let's start by referencing and initialising three.js:
@@ -279,7 +279,7 @@ function animate() {
 ### Done
 Now you should have a spinning grid with a Conway life form evolving on it.
 
-- [Demo](http://playground.tkglaser.net/Conway3D)
+- [Demo](http://tkglaser.apphb.com/Conway3D)
 - [Full code listing on Github](https://raw.github.com/tkglaser/demos/master/net.tkglaser.demos/net.tkglaser.demos/Views/Conway3D/Canvas.cshtml)
 
 If you have any questions, notes, or corrections, please feel free to leave a comment below.

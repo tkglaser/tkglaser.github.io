@@ -12,7 +12,7 @@ something like this:
 
 In many cases, this will be good enough. But you might want to embed your Twitter messages more organically into your page so it fits in with the overall look and feel. In that case, you would want to call the Twitter API and display the tweets yourself. This little tutorial shows, how to do exactly that in ASP MVC 4.    Here is a demo app that shows the finished result:
 
-[playground.tkglaser.net/TwitterFeed](http://playground.tkglaser.net/TwitterFeed)
+[tkglaser.apphb.com/TwitterFeed](http://tkglaser.apphb.com/TwitterFeed)
 
 ### 1. The Model
 As always in MVC, it starts with the model. The model reflects the Twitter API model for a tweet, 
@@ -148,6 +148,6 @@ The tweet should now look like this:
 
 That's it, you can now style and embed your Twitter feed in any way you like. It should look something like this:
 
-[playground.tkglaser.net/TwitterFeed](http://playground.tkglaser.net/TwitterFeed)
+[tkglaser.apphb.com/TwitterFeed](http://tkglaser.apphb.com/TwitterFeed)
 
 As always, please leave a comment if you found this useful or have improvement suggestions.

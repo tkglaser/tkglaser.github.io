@@ -12,7 +12,7 @@ trying to push it a little more. I've allowed the organism to grow into a 3D gri
 ![Conway3Dv2](/assets/images/Conway3Dv2.png)
 <!--more-->
 You can:
-- [Run the demo](http://playground.tkglaser.net/Conway3D2)
+- [Run the demo](http://tkglaser.apphb.com/Conway3D2)
 - [View the complete source](https://raw.github.com/tkglaser/demos/master/net.tkglaser.demos/net.tkglaser.demos/Views/Conway3D2/WebGL.cshtml)
 
 ### Take Conway to the 3rd dimension
@@ -43,7 +43,7 @@ renderer.shadowMapEnabled = true;
 renderer.shadowMapSoft = true;
 ```
 ### Done
-That's it, feel free to have a look at [the demo](http://playground.tkglaser.net/Conway3D2) 
+That's it, feel free to have a look at [the demo](http://tkglaser.apphb.com/Conway3D2) 
 or read [the code](https://raw.github.com/tkglaser/demos/master/net.tkglaser.demos/net.tkglaser.demos/Views/Conway3D2/WebGL.cshtml). 
 This demo will only work in WebGL browsers as I couldn't get the lighting to run in a HTML 5 canvas.
 

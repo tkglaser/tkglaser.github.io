@@ -9,7 +9,7 @@ Just a quick update. I'm currently working on getting some example applications 
 
 Here is the first one:
 
-### [Phone number validation test app](http://playground.tkglaser.net/PhoneValidation/)
+### [Phone number validation test app](http://tkglaser.apphb.com/PhoneValidation/)
 
 This is in reference to my last post, [Phone number validation in MVC 3](http://tkglaser.blogspot.com/2012/02/phone-number-validation-in-mvc-3.html).
 

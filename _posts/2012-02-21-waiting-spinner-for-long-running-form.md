@@ -20,7 +20,7 @@ which completes it to a workable solution in IE 9 and all other browsers.
 
 Here is a little demo app that shows what we will have at the end of the tutorial:
 
-- [http://playground.tkglaser.net/Spinner [7]](http://playground.tkglaser.net/Spinner)
+- [http://tkglaser.apphb.com/Spinner [7]](http://tkglaser.apphb.com/Spinner)
 
 Let's look at the code.
 
@@ -161,7 +161,7 @@ After pressing the search button, it should look something like this:
 
 Also, here is a little demo app that shows the finished result:
 
-[http://playground.tkglaser.net/Spinner [7]](http://playground.tkglaser.net/Spinner)
+[http://tkglaser.apphb.com/Spinner [7]](http://tkglaser.apphb.com/Spinner)
 
 All done. When you press the submit button on your form, the whole browser client window should fade to white and the spinner should appear. When the long running operation has finished, a new page will be loaded so the spinner will disappear.
 
@@ -175,5 +175,5 @@ References:
 4. http://stackoverflow.com/questions/780560/animated-gif-in-ie-stopping
 5. http://jquery.com/
 6. http://fgnass.github.com/spin.js/
-7. http://playground.tkglaser.net/Spinner
+7. http://tkglaser.apphb.com/Spinner
 
