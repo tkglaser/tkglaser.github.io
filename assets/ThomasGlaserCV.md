@@ -18,19 +18,28 @@ real world problems.
 
 # Skills
 
-**Client-side** | |
+**Technologies** | |
 | --- | ---:|
-TypeScript (JavaScript) | 5 Years |
+C#, .Net, .NET Core | 12 Years
+HTML, CSS | 10 Years
+TypeScript (JavaScript) | 5 Years
 Angular | 5 Years
-HTML+CSS | 10 Years
-ASP MVC, Razor | 3.5 Years
-
-**Server-side** ||
-| --- | ---:|
-C# / .Net / .NET Core | 12 Years |
+MS Azure | 4 Years
+ASP MVC Razor | 3.5 Years
 MS SQL Server with Entity Framework | 3 Years
-Docker / Kubernetes | 1 Year
 NodeJS | 1 Year
+
+**Leadership** | |
+| --- | ---:|
+Technical Team Lead | 4 Years
+CTO | 2 Years
+IT Director | 1.5 Years
+
+**Hobbyist Experience** | |
+| --- | --- |
+CosmosDB | AWS
+Kafka | Docker Swarm
+Ubuntu | 
 
 # Leadership
 
@@ -47,7 +56,7 @@ Overall I would say that I have **4 years** experience as a **Team Leader**.
 I am now at a stage of my career where
 I want to focus on hands-on leadership first and foremost.
 
-## Continuing education
+# Continuing education
 
 ![Microsoft Certified: Azure Solutions Architect Expert](img/azure-solutions-architect-expert-600x600.png)
 
