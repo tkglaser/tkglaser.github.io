@@ -39,7 +39,7 @@ IT Director | 1.5 Years
 | --- | --- |
 CosmosDB | AWS
 Kafka | Docker Swarm
-Ubuntu | 
+Ubuntu | Kubernetes
 
 # Leadership
 
